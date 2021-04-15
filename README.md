@@ -1,7 +1,11 @@
 # Book-list-of-computational-geometry-and-computer-graphics
 Book list of computational geometry and computer graphics 计算几何和计算机图形学书单
 
-> 持续更新中，本次更新时间2021年4月10日，未完待续！
+# 计算几何与计算机图形必备书单
+
+> 持续更新中，本次更新时间2021年4月15日，未完待续！
+
+Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
 # 计算机图形学
 ## Physically Based Rendering From Theory To Implementation
@@ -61,3 +65,6 @@ Book list of computational geometry and computer graphics 计算几何和计算�
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_90b4520fddc5f4ec7a55738b61a2ce9b.jpg) |Game Programming Gems 1 |[https://www.stubbornhuang.com/1258/](https://www.stubbornhuang.com/1258/ "https://www.stubbornhuang.com/1258/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_4344b53d2d2e650184446ca8a06fcb83.jpg) |Game Programming Gems 2 |[https://www.stubbornhuang.com/1261/](https://www.stubbornhuang.com/1261/ "https://www.stubbornhuang.com/1261/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_37b292583a8d2bcb8dce0efd1dc25dd5.jpg) |Game Programming Gems 3 |[https://www.stubbornhuang.com/1263/](https://www.stubbornhuang.com/1263/ "https://www.stubbornhuang.com/1263/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_b29536ddc1729a8cb18b4843ed84cba7.jpg) |Game Programming Gems 4 |[https://www.stubbornhuang.com/1267/](https://www.stubbornhuang.com/1267/ "https://www.stubbornhuang.com/1267/") |
