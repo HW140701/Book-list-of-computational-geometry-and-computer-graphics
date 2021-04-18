@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月17日，未完待续！
+> 持续更新中，本次更新时间2021年4月18日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -74,6 +74,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 缺失                                                         | Game Programming Gems 5 | 缺失                                                         |
 | ![ ](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_6cfb7fff124bad98510b4a97b8122de7.jpg " ") | Game Programming Gems 6 | [https://www.stubbornhuang.com/1271/](https://www.stubbornhuang.com/1271/ "https://www.stubbornhuang.com/1271/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_9a9429fd5c5d333cfaf6b623830e9f6e.jpg) | Game Programming Gems 7 | [https://www.stubbornhuang.com/1273/](https://www.stubbornhuang.com/1273/ "https://www.stubbornhuang.com/1273/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_6c81f74bfd81abe54870c018f29d16b5.jpg) |Game Programming Gems 8 |[https://www.stubbornhuang.com/1274/](https://www.stubbornhuang.com/1274/ "https://www.stubbornhuang.com/1274/") |
 
 ## The HDRI Handbook
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
