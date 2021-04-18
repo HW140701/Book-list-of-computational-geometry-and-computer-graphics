@@ -82,6 +82,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_c37dccd4bd138dd76cecac72a1103683.jpg) | The HDRI Handbook- High Dynamic Range Imaging for Photographers and CG Artists | https://www.stubbornhuang.com/1217/                          |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_42a312ae21a18c7851bd0f0f9c763dbe.jpg) | The HDRI Handbook 2.0- High Dynamic Range Imaging for Photographers and CG Artists | [https://www.stubbornhuang.com/1219/](https://www.stubbornhuang.com/1219/ "https://www.stubbornhuang.com/1219/") |
 
+## High Dynamic Range Imaging
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_a01682b3a6c7ebf75ffaef4862ac61ac.jpg) |High Dynamic Range Imaging- Acquisition, Display, and Image-Based Lighting ( First Edition ) |[https://www.stubbornhuang.com/1211/](https://www.stubbornhuang.com/1211/ "https://www.stubbornhuang.com/1211/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_ab4a26f55134467b227a5c2dc5189492.jpg) |High Dynamic Range Imaging- Acquisition, Display, and Image-Based Lighting ( Second Edition ) |[https://www.stubbornhuang.com/1214/](https://www.stubbornhuang.com/1214/ "https://www.stubbornhuang.com/1214/") |
+
 ## Interactive Computer Graphics
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
