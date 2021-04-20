@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月18日，未完待续！
+> 持续更新中，本次更新时间2021年4月20日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -27,6 +27,14 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_4fdd4cb2a411739f7e4fe1d3f2324ded.jpg) | GPU Gems 1 – Programming Techniques, Tips and Tricks for Real-Time Graphics | [https://www.stubbornhuang.com/1230/](https://www.stubbornhuang.com/1230/ "https://www.stubbornhuang.com/1230/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_91d7fbbcfb179c6baf93dabbfede9c63.jpg) | GPU Gems 2 – Programming Techniques for High-Performance Graphics and General-Purpose Computation | [https://www.stubbornhuang.com/1231/](https://www.stubbornhuang.com/1231/ "https://www.stubbornhuang.com/1231/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_8c2ae03fb35f97aba34480ad4bbadc91.jpg) | GPU Gems 3                                                   | [https://www.stubbornhuang.com/1233/](https://www.stubbornhuang.com/1233/ "https://www.stubbornhuang.com/1233/") |
+
+## GPU Pro
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_cecc58e7a4f4fe6c8c43ca15cd4ab26f.jpg) |GPU Pro 1 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1275/](https://www.stubbornhuang.com/1275/ "https://www.stubbornhuang.com/1275/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_d0faf50294efa928e455d6789fa8f6b0.jpg) |GPU Pro 2 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1280/](https://www.stubbornhuang.com/1280/ "https://www.stubbornhuang.com/1280/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_1a86074a29fcd0900d5d2cfa249e82cb.jpg) |GPU Pro 3 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1282/](https://www.stubbornhuang.com/1282/ "https://www.stubbornhuang.com/1282/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_6b01dc7285fa8186b92bc14ceca518d3.jpg) |GPU Pro 4 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1285/](https://www.stubbornhuang.com/1285/ "https://www.stubbornhuang.com/1285/") |
 
 ## GPU Zen
 | 封面                                                         | 书名                                     | 下载链接                                                     |
