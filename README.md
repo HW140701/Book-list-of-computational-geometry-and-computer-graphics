@@ -35,6 +35,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_d0faf50294efa928e455d6789fa8f6b0.jpg) |GPU Pro 2 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1280/](https://www.stubbornhuang.com/1280/ "https://www.stubbornhuang.com/1280/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_1a86074a29fcd0900d5d2cfa249e82cb.jpg) |GPU Pro 3 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1282/](https://www.stubbornhuang.com/1282/ "https://www.stubbornhuang.com/1282/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_6b01dc7285fa8186b92bc14ceca518d3.jpg) |GPU Pro 4 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1285/](https://www.stubbornhuang.com/1285/ "https://www.stubbornhuang.com/1285/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_5196cd3e9c8650fa041291f4baa7b325.jpg) |GPU Pro 5 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1286/](https://www.stubbornhuang.com/1286/ "https://www.stubbornhuang.com/1286/") |
 
 ## GPU Zen
 | 封面                                                         | 书名                                     | 下载链接                                                     |
