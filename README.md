@@ -28,6 +28,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_91d7fbbcfb179c6baf93dabbfede9c63.jpg) | GPU Gems 2 – Programming Techniques for High-Performance Graphics and General-Purpose Computation | [https://www.stubbornhuang.com/1231/](https://www.stubbornhuang.com/1231/ "https://www.stubbornhuang.com/1231/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_8c2ae03fb35f97aba34480ad4bbadc91.jpg) | GPU Gems 3                                                   | [https://www.stubbornhuang.com/1233/](https://www.stubbornhuang.com/1233/ "https://www.stubbornhuang.com/1233/") |
 
+## ShaderX
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_ff6ca46b4fc6e6517acfaa60170c8138.jpg) |Direct3D ShaderX – Vertex and Pixel Shader Tips and Tricks |[https://www.stubbornhuang.com/1294/](https://www.stubbornhuang.com/1294/ "https://www.stubbornhuang.com/1294/") |
+
+
 ## GPU Pro
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
