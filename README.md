@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月25日，未完待续！
+> 持续更新中，本次更新时间2021年4月26日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -33,9 +33,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_ff6ca46b4fc6e6517acfaa60170c8138.jpg) |Direct3D ShaderX – Vertex and Pixel Shader Tips and Tricks |[https://www.stubbornhuang.com/1294/](https://www.stubbornhuang.com/1294/ "https://www.stubbornhuang.com/1294/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_839384bc6a97dce5eb518e34141cbc8e.jpg) |ShaderX2 – Introductions and Tutorials with DirectX9.0 |[https://www.stubbornhuang.com/1298/](https://www.stubbornhuang.com/1298/ "https://www.stubbornhuang.com/1298/") |
-
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_83d20bfc5b779fd39824cd8bb410107d.jpg) |ShaderX3 – Advanced Rendering with DirectX and OpenGL |[https://www.stubbornhuang.com/1300/](https://www.stubbornhuang.com/1300/ "https://www.stubbornhuang.com/1300/") |
 
 ## GPU Pro
+
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_cecc58e7a4f4fe6c8c43ca15cd4ab26f.jpg) |GPU Pro 1 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1275/](https://www.stubbornhuang.com/1275/ "https://www.stubbornhuang.com/1275/") |
