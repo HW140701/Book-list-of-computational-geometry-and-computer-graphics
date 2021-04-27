@@ -42,7 +42,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_83d20bfc5b779fd39824cd8bb410107d.jpg) |ShaderX3 – Advanced Rendering with DirectX and OpenGL |[https://www.stubbornhuang.com/1300/](https://www.stubbornhuang.com/1300/ "https://www.stubbornhuang.com/1300/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX4-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX4 - Advanced Rendering with DirectX and OpenGL |缺失 |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX5-Advanced-Rendering-Techniques%E5%B0%81%E9%9D%A2.jpg) |ShaderX5 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1305/](https://www.stubbornhuang.com/1305/ "https://www.stubbornhuang.com/1305/") |
-|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX6-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX6 - Advanced Rendering with DirectX and OpenGL |缺失 |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX6-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX6 - Advanced Rendering Techniques |缺失 |
 
 ## GPU Pro
 
