@@ -1,11 +1,17 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月26日，未完待续！
+> 持续更新中，本次更新时间2021年4月27日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
 # 计算机图形学
+## Fundamentals of Computer Graphics
+| 封面                                                         | 书名                                              | 下载链接                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Third-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Third Edition  | [https://www.stubbornhuang.com/1065/](https://www.stubbornhuang.com/1065/ "https://www.stubbornhuang.com/1065/") |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Fourth-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Fourth Edition | [https://www.stubbornhuang.com/1071/](https://www.stubbornhuang.com/1071/ "https://www.stubbornhuang.com/1071/") |
+
 ## Physically Based Rendering From Theory To Implementation
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -34,6 +40,8 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_ff6ca46b4fc6e6517acfaa60170c8138.jpg) |Direct3D ShaderX – Vertex and Pixel Shader Tips and Tricks |[https://www.stubbornhuang.com/1294/](https://www.stubbornhuang.com/1294/ "https://www.stubbornhuang.com/1294/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_839384bc6a97dce5eb518e34141cbc8e.jpg) |ShaderX2 – Introductions and Tutorials with DirectX9.0 |[https://www.stubbornhuang.com/1298/](https://www.stubbornhuang.com/1298/ "https://www.stubbornhuang.com/1298/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_83d20bfc5b779fd39824cd8bb410107d.jpg) |ShaderX3 – Advanced Rendering with DirectX and OpenGL |[https://www.stubbornhuang.com/1300/](https://www.stubbornhuang.com/1300/ "https://www.stubbornhuang.com/1300/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX4-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX4 - Advanced Rendering with DirectX and OpenGL |缺失 |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX5-Advanced-Rendering-Techniques%E5%B0%81%E9%9D%A2.jpg) |ShaderX5 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1305/](https://www.stubbornhuang.com/1305/ "https://www.stubbornhuang.com/1305/") |
 
 ## GPU Pro
 
@@ -155,11 +163,6 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computer-Graphics-Through-OpenGL-From-Theory-to-Experiments-Third-Edition-%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85%E5%8E%9F%E7%89%88-PDF%E4%B8%8B%E8%BD%BD.png) | Computer Graphics Through OpenGL – From Theory to Experiments (Third Edition) | [https://www.stubbornhuang.com/1049/](https://www.stubbornhuang.com/1049/ "https://www.stubbornhuang.com/1049/") |
 
 # 计算几何
-## Fundamentals of Computer Graphics
-| 封面                                                         | 书名                                              | 下载链接                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Third-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Third Edition  | [https://www.stubbornhuang.com/1065/](https://www.stubbornhuang.com/1065/ "https://www.stubbornhuang.com/1065/") |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Fourth-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Fourth Edition | [https://www.stubbornhuang.com/1071/](https://www.stubbornhuang.com/1071/ "https://www.stubbornhuang.com/1071/") |
 
 ## Polygon Mesh Processing
 | 封面                                                         | 书名                    | 下载链接                                                     |
