@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月27日，未完待续！
+> 持续更新中，本次更新时间2021年4月28日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -43,6 +43,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX4-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX4 - Advanced Rendering with DirectX and OpenGL |缺失 |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX5-Advanced-Rendering-Techniques%E5%B0%81%E9%9D%A2.jpg) |ShaderX5 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1305/](https://www.stubbornhuang.com/1305/ "https://www.stubbornhuang.com/1305/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX6-Advanced-Rendering-with-DirectX-and-OpenGL.jpg) |ShaderX6 - Advanced Rendering Techniques |缺失 |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/ShaderX7-Advanced-Rendering-Techniques%E5%B0%81%E9%9D%A2.jpg) |ShaderX7 – Advanced Rendering Techniques |[https://www.stubbornhuang.com/1312/](https://www.stubbornhuang.com/1312/ "https://www.stubbornhuang.com/1312/") |
 
 ## GPU Pro
 
