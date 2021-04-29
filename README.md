@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年4月28日，未完待续！
+> 持续更新中，本次更新时间2021年4月29日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -61,6 +61,13 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面                                                         | 书名                                     | 下载链接                                                     |
 | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_86017703015ce48f221a2a34d2a43c45.jpg) | GPU Zen 1：Advanced Rendering Techniques | [https://www.stubbornhuang.com/899/](https://www.stubbornhuang.com/899/ "https://www.stubbornhuang.com/899/") |
+
+## Jim Blinn's Corner
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_75292a4c728ea53637a9ad5612e25628.jpg) |Jim Blinn’s Corner – A Trip Down the Graphics Pipeline |[https://www.stubbornhuang.com/1316/](https://www.stubbornhuang.com/1316/ "https://www.stubbornhuang.com/1316/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_521a3b2474a59c40241cc0e81b55bea9.jpg) |Jim Blinn‘s Corner – Dirty Pixels |[https://www.stubbornhuang.com/1317/](https://www.stubbornhuang.com/1317/ "https://www.stubbornhuang.com/1317/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_9393ef6c5f59861b7f0bb239bcf9092a.jpg) |Jim Blinn’s Corner – Notation, Notation, Notation |[https://www.stubbornhuang.com/1318/](https://www.stubbornhuang.com/1318/ "https://www.stubbornhuang.com/1318/") |
 
 ## Game Engine Gems
 
