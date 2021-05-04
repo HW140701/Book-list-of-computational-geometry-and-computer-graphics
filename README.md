@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月3日，未完待续！
+> 持续更新中，本次更新时间2021年5月4日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -67,6 +67,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_076e94699cc4999c2db5333871c85769.jpg) |GPU Pro 360 – Guide to 3D Engine Design |[https://www.stubbornhuang.com/1320/](https://www.stubbornhuang.com/1320/ "https://www.stubbornhuang.com/1320/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_3fba0ee75a290f5545351fcf829ce977.jpg) |GPU Pro 360 – Guide to Geometry Manipulation |[https://www.stubbornhuang.com/1321/](https://www.stubbornhuang.com/1321/ "https://www.stubbornhuang.com/1321/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
