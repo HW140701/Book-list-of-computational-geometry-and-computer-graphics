@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月5日，未完待续！
+> 持续更新中，本次更新时间2021年5月6日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -69,6 +69,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_076e94699cc4999c2db5333871c85769.jpg) |GPU Pro 360 – Guide to 3D Engine Design |[https://www.stubbornhuang.com/1320/](https://www.stubbornhuang.com/1320/ "https://www.stubbornhuang.com/1320/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_3fba0ee75a290f5545351fcf829ce977.jpg) |GPU Pro 360 – Guide to Geometry Manipulation |[https://www.stubbornhuang.com/1321/](https://www.stubbornhuang.com/1321/ "https://www.stubbornhuang.com/1321/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_1632bc7b9e7eb19e1c21ba75eccdb91a.jpg) |GPU Pro 360 – Guide to GPGPU |[https://www.stubbornhuang.com/1322/](https://www.stubbornhuang.com/1322/ "https://www.stubbornhuang.com/1322/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_727fa008e4228810218d7f0e5e6029b1.jpg) |GPU Pro 360 – Guide to Image Space |[https://www.stubbornhuang.com/1323/](https://www.stubbornhuang.com/1323/ "https://www.stubbornhuang.com/1323/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
