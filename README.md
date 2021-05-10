@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月9日，未完待续！
+> 持续更新中，本次更新时间2021年5月10日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -73,6 +73,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_9a83eace8130464401e90c0ef4b20fb6.jpg) |GPU Pro 360 – Guide to Lighting |[https://www.stubbornhuang.com/1328/](https://www.stubbornhuang.com/1328/ "https://www.stubbornhuang.com/1328/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_9990cdc0e4fe3640123ce13f50e34695.jpg) |GPU Pro 360 – Guide to Mobile Devices |[https://www.stubbornhuang.com/1333/](https://www.stubbornhuang.com/1333/ "https://www.stubbornhuang.com/1333/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_0d3f112b0ccba721c7c80f30bdfdf213.jpg) |GPU Pro 360 – Guide to Rendering |[https://www.stubbornhuang.com/1337/](https://www.stubbornhuang.com/1337/ "https://www.stubbornhuang.com/1337/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_1ea861e925d23f3177375e4b060df61a.jpg) |GPU Pro 360 – Guide to Shadows|[https://www.stubbornhuang.com/1339/](https://www.stubbornhuang.com/1339/ "https://www.stubbornhuang.com/1339/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
