@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月10日，未完待续！
+> 持续更新中，本次更新时间2021年5月11日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -61,6 +61,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面                                                         | 书名                                     | 下载链接                                                     |
 | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_86017703015ce48f221a2a34d2a43c45.jpg) | GPU Zen 1：Advanced Rendering Techniques | [https://www.stubbornhuang.com/899/](https://www.stubbornhuang.com/899/ "https://www.stubbornhuang.com/899/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/GPU-Zen-2%EF%BC%9AAdvanced-Rendering-Techniques%E5%B0%81%E9%9D%A2.jpg) |GPU Zen 2：Advanced Rendering Techniques |[https://www.stubbornhuang.com/1341/](https://www.stubbornhuang.com/1341/ "https://www.stubbornhuang.com/1341/") |
 
 ## GPU Pro 360
 
