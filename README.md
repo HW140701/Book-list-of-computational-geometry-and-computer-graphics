@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月11日，未完待续！
+> 持续更新中，本次更新时间2021年5月12日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -9,6 +9,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Fundamentals of Computer Graphics
 | 封面                                                         | 书名                                              | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_32110034d0d2bbf9efa1090cd541a0f5.jpg) |Fundamentals of Computer Graphics, Second Edition |[https://www.stubbornhuang.com/1343/](https://www.stubbornhuang.com/1343/ "https://www.stubbornhuang.com/1343/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Third-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Third Edition  | [https://www.stubbornhuang.com/1065/](https://www.stubbornhuang.com/1065/ "https://www.stubbornhuang.com/1065/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fundamentals-of-Computer-Graphics-Fourth-Edition%E9%AB%98%E6%B8%85%E8%8B%B1%E6%96%87PDF%E4%B8%8B%E8%BD%BD.png) | Fundamentals of Computer Graphics, Fourth Edition | [https://www.stubbornhuang.com/1071/](https://www.stubbornhuang.com/1071/ "https://www.stubbornhuang.com/1071/") |
 
