@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月14日，未完待续！
+> 持续更新中，本次更新时间2021年5月15日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -82,6 +82,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_ddf2c37252533fe1fcb50bd050f90377.jpg) |Foundations of Game Engine Development, Volume 1 Mathematics |[https://www.stubbornhuang.com/1345/](https://www.stubbornhuang.com/1345/ "https://www.stubbornhuang.com/1345/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/Foundations-of-Game-Engine-Development-Volume-2-Rendering%E5%B0%81%E9%9D%A2.png) |Foundations of Game Engine Development, Volume 2 Rendering |[https://www.stubbornhuang.com/1347/](https://www.stubbornhuang.com/1347/ "https://www.stubbornhuang.com/1347/") |
+
+## Essential Mathematics for Games and Interactive Applications
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_7b732432b38b4a9cf5b39665a37d0880.jpg) |Essential Mathematics for Games and Interactive Applications(First Edition) |[https://www.stubbornhuang.com/1349/](https://www.stubbornhuang.com/1349/ "https://www.stubbornhuang.com/1349/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
