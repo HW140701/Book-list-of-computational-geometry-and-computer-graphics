@@ -88,6 +88,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_7b732432b38b4a9cf5b39665a37d0880.jpg) |Essential Mathematics for Games and Interactive Applications(First Edition) |[https://www.stubbornhuang.com/1349/](https://www.stubbornhuang.com/1349/ "https://www.stubbornhuang.com/1349/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_d0bb172727704231c2e5dffec3f54859.jpg) |Essential Mathematics for Games and Interactive Applications(Second Edition) |[https://www.stubbornhuang.com/1353/](https://www.stubbornhuang.com/1353/ "https://www.stubbornhuang.com/1353/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_0bdb5b4edf87a504a1944e69221d61b4.jpg) |Essential Mathematics for Games and Interactive Applications(Third Edition) |[https://www.stubbornhuang.com/1354/](https://www.stubbornhuang.com/1354/ "https://www.stubbornhuang.com/1354/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
