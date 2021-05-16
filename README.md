@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月15日，未完待续！
+> 持续更新中，本次更新时间2021年5月16日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -87,6 +87,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_7b732432b38b4a9cf5b39665a37d0880.jpg) |Essential Mathematics for Games and Interactive Applications(First Edition) |[https://www.stubbornhuang.com/1349/](https://www.stubbornhuang.com/1349/ "https://www.stubbornhuang.com/1349/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_d0bb172727704231c2e5dffec3f54859.jpg) |Essential Mathematics for Games and Interactive Applications(Second Edition) |[https://www.stubbornhuang.com/1353/](https://www.stubbornhuang.com/1353/ "https://www.stubbornhuang.com/1353/") |
 
 ## Jim Blinn's Corner
 | 封面  | 书名  | 下载链接  |
