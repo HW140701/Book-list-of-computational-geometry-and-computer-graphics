@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月22日，未完待续！
+> 持续更新中，本次更新时间2021年5月23日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -253,3 +253,8 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面                                                         | 书名                                    | 下载链接                                                     |
 | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry%EF%BC%9AAn-IntroductionFranco-P.Preparata-and-Michael-Shamos%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Computational Geometry：An Introduction | [https://www.stubbornhuang.com/1093/](https://www.stubbornhuang.com/1093/ "https://www.stubbornhuang.com/1093/") |
+
+## Geometric Algebra for Computer Science - An Object-Oriented Approach to Geometry
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_0cac1c9d1c72fc216758868857dde54a.jpg) |Geometric Algebra for Computer Science – An Object-Oriented Approach to Geometry (First Edition) |[https://www.stubbornhuang.com/1360/](https://www.stubbornhuang.com/1360/ "https://www.stubbornhuang.com/1360/") |
