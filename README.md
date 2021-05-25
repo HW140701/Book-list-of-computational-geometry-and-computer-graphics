@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月23日，未完待续！
+> 持续更新中，本次更新时间2021年5月25日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -210,6 +210,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_12a3cc9388819dbbcb8ff4db1eba1ec9.jpg) |Game Physics Engine Development- How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) |[https://www.stubbornhuang.com/1359/](https://www.stubbornhuang.com/1359/ "https://www.stubbornhuang.com/1359/") |
 
+## Graphics Shaders - Theory and Practice
+| 封面                                                         | 书名                                                    | 下载链接                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_88e23240f2ac51b4e7dd105317f24ff1.jpg) | Graphics Shaders – Theory and Practice (Second Edition) | [https://www.stubbornhuang.com/1361/](https://www.stubbornhuang.com/1361/ "https://www.stubbornhuang.com/1361/") |
+
 # 计算几何
 
 ## Polygon Mesh Processing
@@ -258,3 +263,4 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_0cac1c9d1c72fc216758868857dde54a.jpg) |Geometric Algebra for Computer Science – An Object-Oriented Approach to Geometry (First Edition) |[https://www.stubbornhuang.com/1360/](https://www.stubbornhuang.com/1360/ "https://www.stubbornhuang.com/1360/") |
+
