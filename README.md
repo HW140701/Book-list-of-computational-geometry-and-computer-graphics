@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月27日，未完待续！
+> 持续更新中，本次更新时间2021年5月28日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -219,6 +219,8 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面                                                         | 书名            | 下载链接                                                     |
 | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_37684fbe10beaa367ea11b5c16506c31.jpg) | OpenGL Insights | [https://www.stubbornhuang.com/1366/](https://www.stubbornhuang.com/1366/ "https://www.stubbornhuang.com/1366/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_ecdaaf6bcc134dafac904fbf6cb2d69b.jpg) |WebGL Insights |[https://www.stubbornhuang.com/1367/](https://www.stubbornhuang.com/1367/ "https://www.stubbornhuang.com/1367/") |
+
 
 # 计算几何
 
