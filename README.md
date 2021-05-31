@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年5月30日，未完待续！
+> 持续更新中，本次更新时间2021年5月31日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -226,6 +226,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_00ac76406afa5505a02d822e7c109a3d.jpg) | The Magic of Computer Graphics – Landmarks in Rendering | [https://www.stubbornhuang.com/1368/](https://www.stubbornhuang.com/1368/ "https://www.stubbornhuang.com/1368/") |
 
+## OpenGL 4.0 Shading Language Cookbook
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_3f966a33383bfb68d63a8437e1dfe5b7.jpg) |OpenGL 4.0 Shading Language Cookbook (First Edition) |[https://www.stubbornhuang.com/1369/](https://www.stubbornhuang.com/1369/ "https://www.stubbornhuang.com/1369/") |
 
 
 # 计算几何
