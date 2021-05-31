@@ -5,7 +5,61 @@
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
-# 计算机图形学
+## 计算机图形学书单列表
+
+- Fundamentals of Computer Graphics
+- Physically Based Rendering From Theory To Implementation
+- Real-Time Rendering
+- GPU Gems
+- ShaderX
+- GPU Pro
+- GPU Zen
+- GPU Pro 360
+- Foundations of Game Engine Development
+- 3D Math Primer for Graphics and Game Development
+- Essential Mathematics for Games and Interactive Applications
+- Jim Blinn's Corner
+- Game Engine Gems
+- Game Engine Architecture
+- Graphics Gems
+- Ray Tracing
+- Game Programming Gems
+- The HDRI Handbook
+- High Dynamic Range Imaging
+- Interactive Computer Graphics
+- Realistic Image Synthesis Using Photon Mapping
+- Ray Tracing Gems
+- Efficient Illumination Algorithms for Global Illumination In Interactive and Real-Time Rendering
+- Mathematics for 3D Game Programming and Computer Graphics
+- Real-Time Shadows
+- Advanced global illumination
+- Computer Graphics Principles and Practice
+- Computer Graphics Through OpenGL – From Theory to Experiments
+- Game Physics Engine Development- How to Build a Robust Commercial-Grade Physics Engine for your Game
+- Graphics Shaders - Theory and Practice
+- Insights
+- The Magic of Computer Graphics - Landmarks in Rendering
+- OpenGL 4.0 Shading Language Cookbook
+
+
+
+## 计算几何书单列表
+
+- Polygon Mesh Processing
+- Computational Geometry – Algorithms and Applications
+- Fluid Simulation for Computer Graphics
+- Computer Graphics Through OpenGL – From Theory to Experiments
+- Handbook of Discrete and Computational Geometry
+- Geometric tools for computer graphics
+- Computational Geometry in C
+- Computational Geometry：An Introduction
+- Geometric Algebra for Computer Science - An Object-Oriented Approach to Geometry
+- Isosurfaces - Geometry, Topology, and Algorithms
+
+
+
+# 计算机图形学书单
+
 ## Fundamentals of Computer Graphics
 | 封面                                                         | 书名                                              | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
@@ -203,6 +257,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Computer Graphics Through OpenGL – From Theory to Experiments
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_39e34a3c23957b31f113429d97f31bdc.jpg) | Computer Graphics Through OpenGL – From Theory to Experiments (Second Edition) | [https://www.stubbornhuang.com/1176/](https://www.stubbornhuang.com/1176/ "https://www.stubbornhuang.com/1176/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computer-Graphics-Through-OpenGL-From-Theory-to-Experiments-Third-Edition-%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85%E5%8E%9F%E7%89%88-PDF%E4%B8%8B%E8%BD%BD.png) | Computer Graphics Through OpenGL – From Theory to Experiments (Third Edition) | [https://www.stubbornhuang.com/1049/](https://www.stubbornhuang.com/1049/ "https://www.stubbornhuang.com/1049/") |
 
 ## Game Physics Engine Development- How to Build a Robust Commercial-Grade Physics Engine for your Game
@@ -250,10 +305,6 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fluid-Simulation-for-Computer-Graphics-First-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, First Edition  | [https://www.stubbornhuang.com/1060/](https://www.stubbornhuang.com/1060/ "https://www.stubbornhuang.com/1060/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-%E2%80%93-Fluid-Simulation-for-Computer-Graphics-Second-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, Second Edition | [https://www.stubbornhuang.com/1063/](https://www.stubbornhuang.com/1063/ "https://www.stubbornhuang.com/1063/") |
 
-## Computer Graphics Through OpenGL – From Theory to Experiments
-| 封面                                                         | 书名                                                         | 下载链接                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_39e34a3c23957b31f113429d97f31bdc.jpg) | Computer Graphics Through OpenGL – From Theory to Experiments (Second Edition) | [https://www.stubbornhuang.com/1176/](https://www.stubbornhuang.com/1176/ "https://www.stubbornhuang.com/1176/") |
 
 
 ## Handbook of Discrete and Computational Geometry
