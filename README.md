@@ -48,7 +48,6 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Polygon Mesh Processing
 - Computational Geometry – Algorithms and Applications
 - Fluid Simulation for Computer Graphics
-- Computer Graphics Through OpenGL – From Theory to Experiments
 - Handbook of Discrete and Computational Geometry
 - Geometric tools for computer graphics
 - Computational Geometry in C
