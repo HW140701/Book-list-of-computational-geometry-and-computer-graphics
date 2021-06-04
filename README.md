@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月3日，未完待续！
+> 持续更新中，本次更新时间2021年6月4日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -260,9 +260,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_39e34a3c23957b31f113429d97f31bdc.jpg) | Computer Graphics Through OpenGL – From Theory to Experiments (Second Edition) | [https://www.stubbornhuang.com/1176/](https://www.stubbornhuang.com/1176/ "https://www.stubbornhuang.com/1176/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computer-Graphics-Through-OpenGL-From-Theory-to-Experiments-Third-Edition-%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85%E5%8E%9F%E7%89%88-PDF%E4%B8%8B%E8%BD%BD.png) | Computer Graphics Through OpenGL – From Theory to Experiments (Third Edition) | [https://www.stubbornhuang.com/1049/](https://www.stubbornhuang.com/1049/ "https://www.stubbornhuang.com/1049/") |
 
-## Game Physics Engine Development- How to Build a Robust Commercial-Grade Physics Engine for your Game
+## Game Physics Engine Development
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_974987b07d80ca4c101f42bafa6ded77.jpg) |Game Physics Engine Development (First Edition) |[https://www.stubbornhuang.com/1377/](https://www.stubbornhuang.com/1377/ "https://www.stubbornhuang.com/1377/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_12a3cc9388819dbbcb8ff4db1eba1ec9.jpg) |Game Physics Engine Development- How to Build a Robust Commercial-Grade Physics Engine for your Game (Second Edition) |[https://www.stubbornhuang.com/1359/](https://www.stubbornhuang.com/1359/ "https://www.stubbornhuang.com/1359/") |
 
 ## Graphics Shaders - Theory and Practice
