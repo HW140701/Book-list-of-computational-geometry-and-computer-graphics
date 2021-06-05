@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月4日，未完待续！
+> 持续更新中，本次更新时间2021年6月5日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -41,6 +41,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - The Magic of Computer Graphics - Landmarks in Rendering
 - OpenGL 4.0 Shading Language Cookbook
 - OpenGL Shading Language
+- Fluid Engine Development
 
 
 
@@ -293,6 +294,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_48bda79bf91c232b75fe2f55c60017da.jpg) |OpenGL Shading Language (Third Edition) |[https://www.stubbornhuang.com/1374/](https://www.stubbornhuang.com/1374/ "https://www.stubbornhuang.com/1374/") |
+
+## Fluid Engine Development
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_7b25c4421056697b13e133746eadfdf6.jpg) |Fluid Engine Development |[https://www.stubbornhuang.com/1378/](https://www.stubbornhuang.com/1378/ "https://www.stubbornhuang.com/1378/") |
 
 
 # 计算几何
