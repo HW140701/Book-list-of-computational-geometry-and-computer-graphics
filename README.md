@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月8日，未完待续！
+> 持续更新中，本次更新时间2021年6月9日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -44,6 +44,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Fluid Engine Development
 - Game Physics Pearls
 - Game Physics
+- Physics for Game Developers
 
 
 
@@ -312,6 +313,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_ce95a86b28933e7168c3f584660f51e5.jpg) |Game Physics (First Edition) |[https://www.stubbornhuang.com/1381/](https://www.stubbornhuang.com/1381/ "https://www.stubbornhuang.com/1381/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_b15dcdedbf957aed19e0ec520af3ea77.jpg) |Game Physics (Second Edition) |[https://www.stubbornhuang.com/1382/](https://www.stubbornhuang.com/1382/ "https://www.stubbornhuang.com/1382/") |
+
+## Physics for Game Developers
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_25d605527ef9a7d65e70d9de6bfe5e33.jpg) |Physics for Game Developers(First Edition) |[https://www.stubbornhuang.com/1383/](https://www.stubbornhuang.com/1383/ "https://www.stubbornhuang.com/1383/") |
 
 
 # 计算几何
