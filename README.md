@@ -1,9 +1,11 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月9日，未完待续！
+> 持续更新中，本次更新时间2021年6月10日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
+
+个人网站地址：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
 
 ## 计算机图形学书单列表
 
@@ -318,7 +320,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_25d605527ef9a7d65e70d9de6bfe5e33.jpg) |Physics for Game Developers(First Edition) |[https://www.stubbornhuang.com/1383/](https://www.stubbornhuang.com/1383/ "https://www.stubbornhuang.com/1383/") |
-
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_f306045adccf444f2d16d52acfc4fdf5.jpg) |Physics for Game Developers(Second Edition) |[https://www.stubbornhuang.com/1385/](https://www.stubbornhuang.com/1385/ "https://www.stubbornhuang.com/1385/") |
 
 # 计算几何
 
