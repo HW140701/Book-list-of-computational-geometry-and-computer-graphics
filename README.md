@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月11日，未完待续！
+> 持续更新中，本次更新时间2021年6月12日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -48,6 +48,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Game Physics
 - Physics for Game Developers
 - Physics for Game Programmers
+- Physics Modeling for Game Programmers
 
 
 
@@ -327,6 +328,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_7408bd31736b896b003d444177f11098.jpg) |Physics for Game Programmers |[https://www.stubbornhuang.com/1386/](https://www.stubbornhuang.com/1386/ "https://www.stubbornhuang.com/1386/") |
+
+## Physics Modeling for Game Programmers
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_28653033dd1e3dc090b24c73b2681d84.jpg) |Physics Modeling for Game Programmers |[https://www.stubbornhuang.com/1389/](https://www.stubbornhuang.com/1389/ "https://www.stubbornhuang.com/1389/") |
 
 # 计算几何
 
