@@ -1,11 +1,11 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月12日，未完待续！
+> 持续更新中，本次更新时间2021年6月15日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
-个人网站地址：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
+个人网站页面地址：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
 
 ## 计算机图形学书单列表
 
@@ -49,6 +49,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Physics for Game Developers
 - Physics for Game Programmers
 - Physics Modeling for Game Programmers
+- Physics-Based Animation
 
 
 
@@ -333,6 +334,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_28653033dd1e3dc090b24c73b2681d84.jpg) |Physics Modeling for Game Programmers |[https://www.stubbornhuang.com/1389/](https://www.stubbornhuang.com/1389/ "https://www.stubbornhuang.com/1389/") |
+
+## Physics-Based Animation
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_00f7ac3323224e71b16bc176741adee9.jpg) |Physics-Based Animation |[https://www.stubbornhuang.com/1390/](https://www.stubbornhuang.com/1390/ "https://www.stubbornhuang.com/1390/") |
 
 # 计算几何
 
