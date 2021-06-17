@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月16日，未完待续！
+> 持续更新中，本次更新时间2021年6月17日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -51,6 +51,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Physics Modeling for Game Programmers
 - Physics-Based Animation
 - Production Volume Rendering - Design and Implementation
+- Collision Detection in Interactive 3D Environments
 
 
 
@@ -345,6 +346,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_8b2276d0c14d4e125a2d537c9c0054e3.jpg) |Production Volume Rendering – Design and Implementation |[https://www.stubbornhuang.com/1391/](https://www.stubbornhuang.com/1391/ "https://www.stubbornhuang.com/1391/") |
+
+## Collision Detection in Interactive 3D Environments
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_d6e7208ac3e65280681fdccaa2a07643.jpg) |Collision Detection in Interactive 3D Environments |[https://www.stubbornhuang.com/1392/](https://www.stubbornhuang.com/1392/ "https://www.stubbornhuang.com/1392/") |
 
 # 计算几何
 
