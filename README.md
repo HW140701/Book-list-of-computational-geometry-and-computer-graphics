@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月17日，未完待续！
+> 持续更新中，本次更新时间2021年6月19日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -52,6 +52,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Physics-Based Animation
 - Production Volume Rendering - Design and Implementation
 - Collision Detection in Interactive 3D Environments
+- Real-Time Collision Detection
 
 
 
@@ -351,6 +352,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_d6e7208ac3e65280681fdccaa2a07643.jpg) |Collision Detection in Interactive 3D Environments |[https://www.stubbornhuang.com/1392/](https://www.stubbornhuang.com/1392/ "https://www.stubbornhuang.com/1392/") |
+
+## Real-Time Collision Detection
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_fb82f1dfba2b0104f212331b18ad3ac1.jpg) |Real-Time Collision Detection |[https://www.stubbornhuang.com/1395/](https://www.stubbornhuang.com/1395/ "https://www.stubbornhuang.com/1395/") |
 
 # 计算几何
 
