@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月20日，未完待续！
+> 持续更新中，本次更新时间2021年6月29日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -54,6 +54,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Collision Detection in Interactive 3D Environments
 - Real-Time Collision Detection
 - Introduction to 3D Game Programming with DirectX 12
+- The Art of Fluid Animation
 
 
 
@@ -363,6 +364,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_7a5e6509517102d6c48bbf2d05fa6de7.jpg) |Introduction to 3D Game Programming with DirectX 12 |[https://www.stubbornhuang.com/1397/](https://www.stubbornhuang.com/1397/ "https://www.stubbornhuang.com/1397/") |
+
+## The Art of Fluid Animation
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_42f90e40d853bbe4297ebb291f10eaf5.jpg) |The Art of Fluid Animation |[https://www.stubbornhuang.com/1418/](https://www.stubbornhuang.com/1418/ "https://www.stubbornhuang.com/1418/") |
 
 # 计算几何
 
