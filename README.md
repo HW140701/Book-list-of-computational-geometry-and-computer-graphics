@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年6月30日，未完待续！
+> 持续更新中，本次更新时间2021年7月1日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -56,6 +56,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Introduction to 3D Game Programming with DirectX 12
 - The Art of Fluid Animation
 - Ray Tracing from the Ground Up
+- Character Animation With Direct3D
 
 
 
@@ -375,6 +376,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_ef53692fbd12c2996496193c95f1e066.jpg) |Ray Tracing from the Ground Up |[https://www.stubbornhuang.com/1420/](https://www.stubbornhuang.com/1420/ "https://www.stubbornhuang.com/1420/") |
+
+## Character Animation With Direct3D
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_830e9170c20a90f0e6f2cb4a778eafba.jpg) |Character Animation With Direct3D |[https://www.stubbornhuang.com/1421/](https://www.stubbornhuang.com/1421/ "https://www.stubbornhuang.com/1421/") |
 
 # 计算几何
 
