@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年7月2日，未完待续！
+> 持续更新中，本次更新时间2021年7月4日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -412,6 +412,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Handbook of Discrete and Computational Geometry
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_86dfd5e37969940ee753bdd7f8d49850.jpg) |Handbook of Discrete and Computational Geometry, First Edition |[https://www.stubbornhuang.com/1424/](https://www.stubbornhuang.com/1424/ "https://www.stubbornhuang.com/1424/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Handbook-of-Discrete-and-Computational-Geometry-Third-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Handbook of Discrete and Computational Geometry, Third Edition | [https://www.stubbornhuang.com/1102/](https://www.stubbornhuang.com/1102/ "https://www.stubbornhuang.com/1102/") |
 
 ## Geometric tools for computer graphics
