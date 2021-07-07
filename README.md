@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年7月5日，未完待续！
+> 持续更新中，本次更新时间2021年7月7日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -399,7 +399,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Computational Geometry – Algorithms and Applications
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/08/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry-Algorithms-and-Applications-3rd-Edition%E8%8B%B1%E6%96%87pdf%E4%B8%8B%E8%BD%BD.png) | Computational Geometry – Algorithms and Applications, 3rd Edition | [https://www.stubbornhuang.com/900/](https://www.stubbornhuang.com/900/ "https://www.stubbornhuang.com/900/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_1715fd51981af4ee72d444266e650545.jpg) |Computational Geometry – Algorithms and Applications, First Edition |[https://www.stubbornhuang.com/1428/](https://www.stubbornhuang.com/1428/ "https://www.stubbornhuang.com/1428/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2020/08/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry-Algorithms-and-Applications-3rd-Edition%E8%8B%B1%E6%96%87pdf%E4%B8%8B%E8%BD%BD.png) |Computational Geometry - Algorithms and Applications, Third Edition |[https://www.stubbornhuang.com/900/](https://www.stubbornhuang.com/900/ "https://www.stubbornhuang.com/900/") |
+
+
 
 ## Fluid Simulation for Computer Graphics
 | 封面                                                         | 书名                                                   | 下载链接                                                     |
