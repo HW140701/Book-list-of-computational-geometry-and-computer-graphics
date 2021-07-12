@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年7月10日，未完待续！
+> 持续更新中，本次更新时间2021年7月12日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -427,9 +427,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Geometric-tools-for-computer-graphicsPhilip-J.-Schneider-and-David-H.-Eberly%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Geometric tools for computer graphics(Philip J. Schneider, and David H. Eberly) | [https://www.stubbornhuang.com/1100/](https://www.stubbornhuang.com/1100/ "https://www.stubbornhuang.com/1100/") |
 
 ## Computational Geometry in C
-| 封面                                                         | 书名                        | 下载链接                                                     |
-| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry-in-CJoseph-ORourke-1998%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Computational Geometry in C | [https://www.stubbornhuang.com/1096/](https://www.stubbornhuang.com/1096/ "https://www.stubbornhuang.com/1096/") |
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_989148b5d2c45565c4aad712b249a83b.jpg) |Computational Geometry in C, First Edition |[https://www.stubbornhuang.com/1432/](https://www.stubbornhuang.com/1432/ "https://www.stubbornhuang.com/1432/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry-in-CJoseph-ORourke-1998%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) |Computational Geometry in C, Second Edition |[https://www.stubbornhuang.com/1096/](https://www.stubbornhuang.com/1096/ "https://www.stubbornhuang.com/1096/") |
 
 ## Computational Geometry：An Introduction
 | 封面                                                         | 书名                                    | 下载链接                                                     |
