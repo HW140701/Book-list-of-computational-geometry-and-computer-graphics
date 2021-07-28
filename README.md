@@ -58,6 +58,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Ray Tracing from the Ground Up
 - Character Animation With Direct3D
 - Vulkan Programming Guide - The Official Guide to Learning Vulkan
+- GLSL Essentials - Enrich your 3D scenes with the power of GLSL
 
 
 
@@ -388,6 +389,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_6f51422685da8325ffc724f67f1e3462.jpg) |Vulkan Programming Guide – The Official Guide to Learning Vulkan |[https://www.stubbornhuang.com/1423/](https://www.stubbornhuang.com/1423/ "https://www.stubbornhuang.com/1423/") |
+
+## GLSL Essentials - Enrich your 3D scenes with the power of GLSL
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_ae3484315ebf97d2a8c5e7f89f613d9a.jpg) |GLSL Essentials – Enrich your 3D scenes with the power of GLSL |[https://www.stubbornhuang.com/1466/](https://www.stubbornhuang.com/1466/ "https://www.stubbornhuang.com/1466/") |
 
 
 # 计算几何
