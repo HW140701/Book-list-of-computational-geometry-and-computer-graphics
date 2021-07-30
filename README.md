@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年7月29日，未完待续！
+> 持续更新中，本次更新时间2021年7月30日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -400,6 +400,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_d061ac81b1f9a1894e1429f028ce6ed0.jpg) |Computer Animation – Algorithms and Techniques (First Edition) |[https://www.stubbornhuang.com/1467/](https://www.stubbornhuang.com/1467/ "https://www.stubbornhuang.com/1467/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_81f799c03803ee19147ae07ab77cc388.jpg) |Computer Animation – Algorithms and Techniques (Third Edition) |[https://www.stubbornhuang.com/1471/](https://www.stubbornhuang.com/1471/ "https://www.stubbornhuang.com/1471/") |
 
 
 # 计算几何
