@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年7月30日，未完待续！
+> 持续更新中，本次更新时间2021年7月31日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -41,6 +41,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Graphics Shaders - Theory and Practice
 - Insights
 - The Magic of Computer Graphics - Landmarks in Rendering
+- OpenGL Programming Guide
 - OpenGL 4.0 Shading Language Cookbook
 - OpenGL Shading Language
 - Fluid Engine Development
@@ -301,6 +302,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面                                                         | 书名                                                    | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/05/wp_editor_md_00ac76406afa5505a02d822e7c109a3d.jpg) | The Magic of Computer Graphics – Landmarks in Rendering | [https://www.stubbornhuang.com/1368/](https://www.stubbornhuang.com/1368/ "https://www.stubbornhuang.com/1368/") |
+
+## OpenGL Programming Guide
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_6c1ea8e566fdf5d6e027e45295fa8018.jpg) |OpenGL Programming Guide - The Official Guide to Learning OpenGL, Versions 3.0 and 3.1 (Seventh Edition) |[https://www.stubbornhuang.com/1474/](https://www.stubbornhuang.com/1474/ "https://www.stubbornhuang.com/1474/") |
 
 ## OpenGL 4.0 Shading Language Cookbook
 | 封面  | 书名  | 下载链接  |
