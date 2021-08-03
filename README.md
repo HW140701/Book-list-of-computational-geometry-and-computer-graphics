@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月2日，未完待续！
+> 持续更新中，本次更新时间2021年8月3日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -42,6 +42,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Insights
 - The Magic of Computer Graphics - Landmarks in Rendering
 - OpenGL Programming Guide
+- OpenGL SuperBible
 - OpenGL 4.0 Shading Language Cookbook
 - OpenGL Shading Language
 - Fluid Engine Development
@@ -309,6 +310,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_6c1ea8e566fdf5d6e027e45295fa8018.jpg) |OpenGL Programming Guide - The Official Guide to Learning OpenGL, Versions 3.0 and 3.1 (Seventh Edition) |[https://www.stubbornhuang.com/1474/](https://www.stubbornhuang.com/1474/ "https://www.stubbornhuang.com/1474/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8944c698c146193e86cc8b2c4cb12227.jpg) |OpenGL Programming Guide - The Official Guide to Learning OpenGL, Version 4.3 (Eighth Edition) |[https://www.stubbornhuang.com/1485/](https://www.stubbornhuang.com/1485/ "https://www.stubbornhuang.com/1485/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_2f185a69c1262eb6a5095b0a1a339ffb.jpg) |OpenGL Programming Guide - The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (Ninth Edition) |[https://www.stubbornhuang.com/1488/](https://www.stubbornhuang.com/1488/ "https://www.stubbornhuang.com/1488/") |
+
+## OpenGL SuperBible
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8f1eb3a3c5e06f69f37109f4d6e137cc.jpg) |OpenGL SuperBible - Comprehensive Tutorial and Reference (Fifth Edition) |[https://www.stubbornhuang.com/1492/](https://www.stubbornhuang.com/1492/ "https://www.stubbornhuang.com/1492/") |
 
 ## OpenGL 4.0 Shading Language Cookbook
 | 封面  | 书名  | 下载链接  |
