@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月4日，未完待续！
+> 持续更新中，本次更新时间2021年8月5日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -316,6 +316,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8f1eb3a3c5e06f69f37109f4d6e137cc.jpg) |OpenGL SuperBible - Comprehensive Tutorial and Reference (Fifth Edition) |[https://www.stubbornhuang.com/1492/](https://www.stubbornhuang.com/1492/ "https://www.stubbornhuang.com/1492/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_6cff4b803c72199d15d0385b1c7d206d.jpg) |OpenGL SuperBible - Comprehensive Tutorial and Reference (Sixth Edition) |[https://www.stubbornhuang.com/1494/](https://www.stubbornhuang.com/1494/ "https://www.stubbornhuang.com/1494/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_bbe7324000cfe8f113885978aad3011f.jpg) |OpenGL SuperBible - Comprehensive Tutorial and Reference (Seventh Edition) |[https://www.stubbornhuang.com/1499/](https://www.stubbornhuang.com/1499/ "https://www.stubbornhuang.com/1499/") |
 
 ## OpenGL 4.0 Shading Language Cookbook
 | 封面  | 书名  | 下载链接  |
