@@ -102,6 +102,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 | 封面                                                         | 书名                                | 下载链接                                                     |
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_d6a57260f6aa1789fe91053d138fc68d.jpg) |Real-Time Rendering, Second Edition |[https://www.stubbornhuang.com/1503/](https://www.stubbornhuang.com/1503/ "https://www.stubbornhuang.com/1503/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/08/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Real-Time-Rendering-Third-Edition-%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88Pdf%E4%B8%8B%E8%BD%BD.png) | Real-Time Rendering, Third Edition  | [https://www.stubbornhuang.com/896/](https://www.stubbornhuang.com/896/ "https://www.stubbornhuang.com/896/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/08/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Real-Time-Rendering-Fourth-Edition-Pdf%E8%8B%B1%E6%96%87%E5%8E%9F%E7%89%88%E4%B8%8B%E8%BD%BD.png) | Real-Time Rendering, Fourth Edition | [https://www.stubbornhuang.com/897/](https://www.stubbornhuang.com/897/ "https://www.stubbornhuang.com/897/") |
 
