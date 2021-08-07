@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月6日，未完待续！
+> 持续更新中，本次更新时间2021年8月7日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -61,6 +61,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Character Animation With Direct3D
 - Vulkan Programming Guide - The Official Guide to Learning Vulkan
 - Learning Vulkan
+- Vulkan Cookbook - Work through recipes to unlock the full potential of the next generation graphics API-Vulkan
 - GLSL Essentials - Enrich your 3D scenes with the power of GLSL
 - Computer Animation - Algorithms and Techniques
 
@@ -412,6 +413,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_b7b6fb41e4ea4889ca7386a4eba6d31d.jpg) |Learning Vulkan |[https://www.stubbornhuang.com/1501/](https://www.stubbornhuang.com/1501/ "https://www.stubbornhuang.com/1501/") |
+
+## Vulkan Cookbook - Work through recipes to unlock the full potential of the next generation graphics API-Vulkan
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_9c6006cacd38beb1f5c00a28a7e65d1b.jpg) |Vulkan Cookbook – Work through recipes to unlock the full potential of the next generation graphics API-Vulkan |[https://www.stubbornhuang.com/1502/](https://www.stubbornhuang.com/1502/ "https://www.stubbornhuang.com/1502/") |
 
 
 ## GLSL Essentials - Enrich your 3D scenes with the power of GLSL
