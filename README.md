@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月7日，未完待续！
+> 持续更新中，本次更新时间2021年8月8日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -251,7 +251,8 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Ray Tracing Gems
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_5faea18a69f88a7237b9998929be977a.jpg) | Ray Tracing Gems – High-Quality and Real-Time Rendering with DXR and Other APIs (Second Editions) | [https://www.stubbornhuang.com/1185/](https://www.stubbornhuang.com/1185/ "https://www.stubbornhuang.com/1185/") |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_5faea18a69f88a7237b9998929be977a.jpg) | Ray Tracing Gems – High-Quality and Real-Time Rendering with DXR and Other APIs | [https://www.stubbornhuang.com/1185/](https://www.stubbornhuang.com/1185/ "https://www.stubbornhuang.com/1185/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_04b94890b5619d1bd0d1f011bbfba2ff.jpg) |Ray Tracing Gems II - Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX-Apress |[https://www.stubbornhuang.com/1551/](https://www.stubbornhuang.com/1551/ "https://www.stubbornhuang.com/1551/") |
 
 ## Efficient Illumination Algorithms for Global Illumination In Interactive and Real-Time Rendering
 | 封面                                                         | 书名                                                         | 下载链接                                                     |
