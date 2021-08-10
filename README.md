@@ -24,7 +24,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Game Engine Gems
 - Game Engine Architecture
 - Graphics Gems
-- Ray Tracing
+- Ray Tracing in One Week
 - Game Programming Gems
 - The HDRI Handbook
 - High Dynamic Range Imaging
@@ -207,12 +207,14 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_40d7dad1a80bfcb51dc31e5d74d0d37f.jpg) | Graphics Gems IV  | [https://www.stubbornhuang.com/1254/](https://www.stubbornhuang.com/1254/ "https://www.stubbornhuang.com/1254/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/04/wp_editor_md_0bac760061d77bd6b9573feaba7a16f2.jpg) | Graphics Gems V   | [https://www.stubbornhuang.com/1255/](https://www.stubbornhuang.com/1255/ "https://www.stubbornhuang.com/1255/") |
 
-## Ray Tracing
+## Ray Tracing in One Week
 | 封面                                                         | 书名                                | 下载链接                                                     |
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Ray-Tracing-in-a-Weekend%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Ray Tracing in a Weekend            | [https://www.stubbornhuang.com/1085/](https://www.stubbornhuang.com/1085/ "https://www.stubbornhuang.com/1085/") |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Ray-Tracing-The-Next-Week%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Ray Tracing – The Next Week         | [https://www.stubbornhuang.com/1088/](https://www.stubbornhuang.com/1088/ "https://www.stubbornhuang.com/1088/") |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2021/01/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Ray-Tracing-The-Rest-of-Your-Life%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Ray Tracing – The Rest of Your Life | [https://www.stubbornhuang.com/1091/](https://www.stubbornhuang.com/1091/ "https://www.stubbornhuang.com/1091/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_526b484b3536bac28a834591f7502254.jpg) |Ray Tracing in One Weekend |[https://www.stubbornhuang.com/1085/](https://www.stubbornhuang.com/1085/ "https://www.stubbornhuang.com/1085/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_b04a685ce4e7e66af9f076f4813e5f72.jpg) |Ray Tracing – The Next Week |[https://www.stubbornhuang.com/1088/](https://www.stubbornhuang.com/1088/ "https://www.stubbornhuang.com/1088/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8b24975f54f19f1106456748fb385853.jpg) |Ray Tracing – The Rest of Your Life |[https://www.stubbornhuang.com/1091/](https://www.stubbornhuang.com/1091/ "https://www.stubbornhuang.com/1091/") |
+
+
 
 ## Game Programming Gems
 | 封面                                                         | 书名                    | 下载链接                                                     |
