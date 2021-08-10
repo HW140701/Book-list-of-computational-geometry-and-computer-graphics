@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月9日，未完待续！
+> 持续更新中，本次更新时间2021年8月10日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -64,6 +64,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Vulkan Cookbook - Work through recipes to unlock the full potential of the next generation graphics API-Vulkan
 - GLSL Essentials - Enrich your 3D scenes with the power of GLSL
 - Computer Animation - Algorithms and Techniques
+- The Ray Tracer Challenge - A Test-Driven Guide to Your First 3D Renderer
 
 
 
@@ -434,6 +435,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_d061ac81b1f9a1894e1429f028ce6ed0.jpg) |Computer Animation – Algorithms and Techniques (First Edition) |[https://www.stubbornhuang.com/1467/](https://www.stubbornhuang.com/1467/ "https://www.stubbornhuang.com/1467/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_81f799c03803ee19147ae07ab77cc388.jpg) |Computer Animation – Algorithms and Techniques (Third Edition) |[https://www.stubbornhuang.com/1471/](https://www.stubbornhuang.com/1471/ "https://www.stubbornhuang.com/1471/") |
+
+
+## The Ray Tracer Challenge - A Test-Driven Guide to Your First 3D Renderer
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_05643db2617583cb4520e9dbf11b2e38.jpg) |The Ray Tracer Challenge – A Test-Driven Guide to Your First 3D Renderer |[https://www.stubbornhuang.com/1556/](https://www.stubbornhuang.com/1556/ "https://www.stubbornhuang.com/1556/") |
 
 
 # 计算几何
