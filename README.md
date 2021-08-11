@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月10日，未完待续！
+> 持续更新中，本次更新时间2021年8月11日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -65,6 +65,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - GLSL Essentials - Enrich your 3D scenes with the power of GLSL
 - Computer Animation - Algorithms and Techniques
 - The Ray Tracer Challenge - A Test-Driven Guide to Your First 3D Renderer
+- Ray Tracing - A Tool for All
 
 
 
@@ -443,6 +444,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_05643db2617583cb4520e9dbf11b2e38.jpg) |The Ray Tracer Challenge – A Test-Driven Guide to Your First 3D Renderer |[https://www.stubbornhuang.com/1556/](https://www.stubbornhuang.com/1556/ "https://www.stubbornhuang.com/1556/") |
+
+## Ray Tracing - A Tool for All
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_4b17ef33ffdeba8d1a796a2417c7e7c7.jpg) |Ray Tracing - A Tool for All |[https://www.stubbornhuang.com/1558/](https://www.stubbornhuang.com/1558/ "https://www.stubbornhuang.com/1558/") |
 
 
 # 计算几何
