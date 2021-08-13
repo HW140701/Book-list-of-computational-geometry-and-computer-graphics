@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月12日，未完待续！
+> 持续更新中，本次更新时间2021年8月13日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -67,6 +67,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - The Ray Tracer Challenge - A Test-Driven Guide to Your First 3D Renderer
 - Ray Tracing - A Tool for All
 - Cloth Simulation for Computer Graphics
+- Real-Time Volume Graphics
 
 
 
@@ -455,6 +456,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_025d0f24b1244a0cd41bb37fd2d98141.jpg) |Cloth Simulation for Computer Graphics |[https://www.stubbornhuang.com/1560/](https://www.stubbornhuang.com/1560/ "https://www.stubbornhuang.com/1560/") |
+
+## Real-Time Volume Graphics
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e8fc36849dc3ea752a5ba090efb2240b.jpg) |Real-Time Volume Graphics |[https://www.stubbornhuang.com/1564/](https://www.stubbornhuang.com/1564/ "https://www.stubbornhuang.com/1564/") |
 
 
 # 计算几何
