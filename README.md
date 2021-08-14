@@ -523,4 +523,4 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 ## Guide to Computational Geometry Processing Foundations, Algorithms, and Methods
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
-|![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_772e64295ccd93ab19c36645ccb85891.jpg) |Guide to Computational Geometry Processing Foundations, Algorithms, and Methods |[https://www.stubbornhuang.com/1431/](https://www.stubbornhuang.com/1431/ "https://www.stubbornhuang.com/1431/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_40e73156c0db0636ba6b0401ad0a72db.jpg) |Guide to Computational Geometry Processing Foundations, Algorithms, and Methods |[https://www.stubbornhuang.com/1431/](https://www.stubbornhuang.com/1431/ "https://www.stubbornhuang.com/1431/") |
