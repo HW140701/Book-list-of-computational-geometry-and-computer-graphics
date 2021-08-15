@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月14日，未完待续！
+> 持续更新中，本次更新时间2021年8月15日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -68,6 +68,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Ray Tracing - A Tool for All
 - Cloth Simulation for Computer Graphics
 - Real-Time Volume Graphics
+- Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering
 
 
 
@@ -462,6 +463,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e8fc36849dc3ea752a5ba090efb2240b.jpg) |Real-Time Volume Graphics |[https://www.stubbornhuang.com/1564/](https://www.stubbornhuang.com/1564/ "https://www.stubbornhuang.com/1564/") |
+
+## Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e727d0a7ccf861ac4198abeed5bc6e01.jpg) |Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering |[https://www.stubbornhuang.com/1569/](https://www.stubbornhuang.com/1569/ "https://www.stubbornhuang.com/1569/") |
 
 
 # 计算几何
