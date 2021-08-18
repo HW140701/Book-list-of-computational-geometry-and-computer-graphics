@@ -1,7 +1,7 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-> 持续更新中，本次更新时间2021年8月17日，未完待续！
+> 持续更新中，本次更新时间2021年8月18日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -87,6 +87,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Discrete and Computational Geometry
 - Robust and Error-Free Geometric Computing
 - Implicit Curves and Surfaces - Mathematics, Data Structures and Algorithms
+- Computational Geometry - An Introduction Through Randomized Algorithms
 
 
 
@@ -549,4 +550,9 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_6a4b7f7f05449d70388b36454b79478e.jpg) |Implicit Curves and Surfaces - Mathematics, Data Structures and Algorithms |[https://www.stubbornhuang.com/1573/](https://www.stubbornhuang.com/1573/ "https://www.stubbornhuang.com/1573/") |
+
+## Computational Geometry - An Introduction Through Randomized Algorithms
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_ff793baeb32b0b57534f9985f4de1436.jpg) |Computational Geometry - An Introduction Through Randomized Algorithms |[https://www.stubbornhuang.com/1574/](https://www.stubbornhuang.com/1574/ "https://www.stubbornhuang.com/1574/") |
 
