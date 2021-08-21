@@ -57,6 +57,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Physics for Game Programmers
 - Physics Modeling for Game Programmers
 - Physics-Based Animation
+- Foundations of Physically Based Modeling and Animation
 - Production Volume Rendering - Design and Implementation
 - Collision Detection in Interactive 3D Environments
 - Real-Time Collision Detection
@@ -395,6 +396,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_00f7ac3323224e71b16bc176741adee9.jpg) |Physics-Based Animation |[https://www.stubbornhuang.com/1390/](https://www.stubbornhuang.com/1390/ "https://www.stubbornhuang.com/1390/") |
+
+## Foundations of Physically Based Modeling and Animation
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/03/wp_editor_md_c463eb5b3ca6c6c1387edb1cd4c8ef66.jpg) |Foundations of Physically Based Modeling and Animation |[https://www.stubbornhuang.com/1223/](https://www.stubbornhuang.com/1223/ "https://www.stubbornhuang.com/1223/") |
+
 
 ## Production Volume Rendering - Design and Implementation
 | 封面  | 书名  | 下载链接  |
