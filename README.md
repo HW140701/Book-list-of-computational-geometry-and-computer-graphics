@@ -46,6 +46,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - OpenGL 4.0 Shading Language Cookbook
 - OpenGL Shading Language
 - Fluid Engine Development
+- Fluid Simulation for Computer Graphics
 - Game Physics Pearls
 - Game Physics
 - Physics for Game Developers
@@ -76,7 +77,6 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 - Polygon Mesh Processing
 - Computational Geometry – Algorithms and Applications
-- Fluid Simulation for Computer Graphics
 - Handbook of Discrete and Computational Geometry
 - Geometric tools for computer graphics
 - Computational Geometry in C
@@ -353,6 +353,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_7b25c4421056697b13e133746eadfdf6.jpg) |Fluid Engine Development |[https://www.stubbornhuang.com/1378/](https://www.stubbornhuang.com/1378/ "https://www.stubbornhuang.com/1378/") |
 
+## Fluid Simulation for Computer Graphics
+| 封面                                                         | 书名                                                   | 下载链接                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fluid-Simulation-for-Computer-Graphics-First-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, First Edition  | [https://www.stubbornhuang.com/1060/](https://www.stubbornhuang.com/1060/ "https://www.stubbornhuang.com/1060/") |
+| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-%E2%80%93-Fluid-Simulation-for-Computer-Graphics-Second-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, Second Edition | [https://www.stubbornhuang.com/1063/](https://www.stubbornhuang.com/1063/ "https://www.stubbornhuang.com/1063/") |
+
 ## Game Physics Pearls
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
@@ -489,15 +495,6 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_1715fd51981af4ee72d444266e650545.jpg) |Computational Geometry – Algorithms and Applications, First Edition |[https://www.stubbornhuang.com/1428/](https://www.stubbornhuang.com/1428/ "https://www.stubbornhuang.com/1428/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/07/wp_editor_md_9db4383cce3cb36e046a275132021f81.jpg) |Computational Geometry – Algorithms and Applications, Second Edition |[https://www.stubbornhuang.com/1430/](https://www.stubbornhuang.com/1430/ "https://www.stubbornhuang.com/1430/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2020/08/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Computational-Geometry-Algorithms-and-Applications-3rd-Edition%E8%8B%B1%E6%96%87pdf%E4%B8%8B%E8%BD%BD.png) |Computational Geometry - Algorithms and Applications, Third Edition |[https://www.stubbornhuang.com/900/](https://www.stubbornhuang.com/900/ "https://www.stubbornhuang.com/900/") |
-
-
-
-## Fluid Simulation for Computer Graphics
-| 封面                                                         | 书名                                                   | 下载链接                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fluid-Simulation-for-Computer-Graphics-First-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, First Edition  | [https://www.stubbornhuang.com/1060/](https://www.stubbornhuang.com/1060/ "https://www.stubbornhuang.com/1060/") |
-| ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-%E2%80%93-Fluid-Simulation-for-Computer-Graphics-Second-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, Second Edition | [https://www.stubbornhuang.com/1063/](https://www.stubbornhuang.com/1063/ "https://www.stubbornhuang.com/1063/") |
-
 
 
 ## Handbook of Discrete and Computational Geometry
