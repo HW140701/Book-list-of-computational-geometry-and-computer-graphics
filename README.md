@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
 
 
-> 持续更新中，本次更新时间2021年8月22日，未完待续！
+> 持续更新中，本次更新时间2021年8月23日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -76,6 +76,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Real-Time Volume Graphics
 - Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering
 - 3D Game Engine Design - A Practical Approach to Real-Time Computer Graphics
+- Real-Time Cameras - A Guide for Game Designers and Developers
 
 
 
@@ -498,6 +499,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_61dbbe937bc5d8e0893f5e5f4086679e.jpg) |3D Game Engine Design - A Practical Approach to Real-Time Computer Graphics |[https://www.stubbornhuang.com/1592/](https://www.stubbornhuang.com/1592/ "https://www.stubbornhuang.com/1592/") |
+
+## Real-Time Cameras - A Guide for Game Designers and Developers
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_9687759953a3e39d4507afffa2df7b3c.jpg) |Real-Time Cameras – A Guide for Game Designers and Developers |[https://www.stubbornhuang.com/1596/](https://www.stubbornhuang.com/1596/ "https://www.stubbornhuang.com/1596/") |
 
 
 # 计算几何
