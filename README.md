@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
 
 
-> 持续更新中，本次更新时间2021年8月23日，未完待续！
+> 持续更新中，本次更新时间2021年8月24日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -77,6 +77,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Computer Graphics from Scratch - A Programmer's Introduction to 3D Rendering
 - 3D Game Engine Design - A Practical Approach to Real-Time Computer Graphics
 - Real-Time Cameras - A Guide for Game Designers and Developers
+- Game AI Pro - Collected Wisdom of Game AI Professionals
 
 
 
@@ -504,6 +505,13 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_9687759953a3e39d4507afffa2df7b3c.jpg) |Real-Time Cameras – A Guide for Game Designers and Developers |[https://www.stubbornhuang.com/1596/](https://www.stubbornhuang.com/1596/ "https://www.stubbornhuang.com/1596/") |
+
+## Game AI Pro - Collected Wisdom of Game AI Professionals
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_4e0a9effeb8803f485c99d71be80ce47.jpg) |Game AI Pro - Collected Wisdom of Game AI Professionals |[https://www.stubbornhuang.com/1599/](https://www.stubbornhuang.com/1599/ "https://www.stubbornhuang.com/1599/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_eca1136eb31d54c84d2c2f65a0e08f37.jpg) |Game AI Pro 2 – Collected Wisdom of Game AI Professionals |[https://www.stubbornhuang.com/1600/](https://www.stubbornhuang.com/1600/ "https://www.stubbornhuang.com/1600/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_668529a416d239a58caa93c3950d1d84.jpg) |Game AI Pro 3 – Collected Wisdom of Game AI Professionals |[https://www.stubbornhuang.com/1601/](https://www.stubbornhuang.com/1601/ "https://www.stubbornhuang.com/1601/") |
 
 
 # 计算几何
