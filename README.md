@@ -520,6 +520,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_211d5c51a1c2e3ba5af7469307989d22.jpg) |Game AI Pro 360 – Guide to Architecture |[https://www.stubbornhuang.com/1602/](https://www.stubbornhuang.com/1602/ "https://www.stubbornhuang.com/1602/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e5d5549d7e597a33047048e167bf6af2.jpg) |Game AI Pro 360 - Guide to Character Behavior |[https://www.stubbornhuang.com/1604/](https://www.stubbornhuang.com/1604/ "https://www.stubbornhuang.com/1604/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8d2140472d793907737d57152cea9889.jpg) |Game AI Pro 360 – Guide to Movement and Pathfinding |[https://www.stubbornhuang.com/1605/](https://www.stubbornhuang.com/1605/ "https://www.stubbornhuang.com/1605/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_91355745decbfd9ebb89deaa36b1c42e.jpg) |Game AI Pro 360 - Guide to Tactics and Strategy |[https://www.stubbornhuang.com/1607/](https://www.stubbornhuang.com/1607/ "https://www.stubbornhuang.com/1607/") |
 
 
 # 计算几何
