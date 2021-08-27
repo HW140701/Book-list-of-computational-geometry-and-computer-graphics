@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
 
 
-> 持续更新中，本次更新时间2021年8月26日，未完待续！
+> 持续更新中，本次更新时间2021年8月27日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -519,6 +519,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_211d5c51a1c2e3ba5af7469307989d22.jpg) |Game AI Pro 360 – Guide to Architecture |[https://www.stubbornhuang.com/1602/](https://www.stubbornhuang.com/1602/ "https://www.stubbornhuang.com/1602/") |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e5d5549d7e597a33047048e167bf6af2.jpg) |Game AI Pro 360 - Guide to Character Behavior |[https://www.stubbornhuang.com/1604/](https://www.stubbornhuang.com/1604/ "https://www.stubbornhuang.com/1604/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8d2140472d793907737d57152cea9889.jpg) |Game AI Pro 360 – Guide to Movement and Pathfinding |[https://www.stubbornhuang.com/1605/](https://www.stubbornhuang.com/1605/ "https://www.stubbornhuang.com/1605/") |
 
 
 # 计算几何
