@@ -81,6 +81,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Game AI Pro - Collected Wisdom of Game AI Professionals
 - Game AI Pro 360
 - Visualizing Quaternions
+- Quaternions for Computer Graphics
 
 
 
@@ -535,6 +536,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_fad42203242aeb52f527098090b56775.jpg) |Visualizing Quaternions |[https://www.stubbornhuang.com/1609/](https://www.stubbornhuang.com/1609/ "https://www.stubbornhuang.com/1609/") |
+
+## Quaternions for Computer Graphics
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8b8e16fe060192dfb9281a11b2083b38.jpg) |Quaternions for Computer Graphics |[https://www.stubbornhuang.com/1612/](https://www.stubbornhuang.com/1612/ "https://www.stubbornhuang.com/1612/") |
 
 
 # 计算几何
