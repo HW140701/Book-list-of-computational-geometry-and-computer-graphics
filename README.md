@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
 
 
-> 持续更新中，本次更新时间2021年8月28日，未完待续！
+> 持续更新中，本次更新时间2021年8月29日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -51,6 +51,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - OpenGL Shading Language
 - Fluid Engine Development
 - Fluid Simulation for Computer Graphics
+- The Nature of Code - Simulating Natural Systems with Processing
 - Game Physics Pearls
 - Game Physics
 - Physics for Game Developers
@@ -369,6 +370,13 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-Fluid-Simulation-for-Computer-Graphics-First-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, First Edition  | [https://www.stubbornhuang.com/1060/](https://www.stubbornhuang.com/1060/ "https://www.stubbornhuang.com/1060/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2020/12/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB-%E2%80%93-Fluid-Simulation-for-Computer-Graphics-Second-Edition%E8%8B%B1%E6%96%87%E9%AB%98%E6%B8%85PDF%E4%B8%8B%E8%BD%BD.png) | Fluid Simulation for Computer Graphics, Second Edition | [https://www.stubbornhuang.com/1063/](https://www.stubbornhuang.com/1063/ "https://www.stubbornhuang.com/1063/") |
+
+
+## The Nature of Code - Simulating Natural Systems with Processing
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_e3ce0a0b250f6e18f84723e8c7612f0c.jpg) |The Nature of Code - Simulating Natural Systems with Processing |[https://www.stubbornhuang.com/1610/](https://www.stubbornhuang.com/1610/ "https://www.stubbornhuang.com/1610/") |
+
 
 ## Game Physics Pearls
 | 封面  | 书名  | 下载链接  |
