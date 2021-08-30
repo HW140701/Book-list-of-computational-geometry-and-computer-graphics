@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
 
 
-> 持续更新中，本次更新时间2021年8月29日，未完待续！
+> 持续更新中，本次更新时间2021年8月30日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -82,6 +82,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Game AI Pro 360
 - Visualizing Quaternions
 - Quaternions for Computer Graphics
+- 3D Engine Design for Virtual Globes
 
 
 
@@ -541,6 +542,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8b8e16fe060192dfb9281a11b2083b38.jpg) |Quaternions for Computer Graphics |[https://www.stubbornhuang.com/1612/](https://www.stubbornhuang.com/1612/ "https://www.stubbornhuang.com/1612/") |
+
+## 3D Engine Design for Virtual Globes
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_89c365508787d1e9f7c6e479ba9c933d.jpg) |3D Engine Design for Virtual Globes |[https://www.stubbornhuang.com/1613/](https://www.stubbornhuang.com/1613/ "https://www.stubbornhuang.com/1613/") |
 
 
 # 计算几何
