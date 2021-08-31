@@ -1,10 +1,10 @@
 [toc]
 # 计算几何与计算机图形必备书单
 
-有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发等方面总结，计算几何主要从计算几何基础方面总结。
+有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
 
-> 持续更新中，本次更新时间2021年8月30日，未完待续！
+> 持续更新中，本次更新时间2021年8月31日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -83,6 +83,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Visualizing Quaternions
 - Quaternions for Computer Graphics
 - 3D Engine Design for Virtual Globes
+- Texturing and Modeling - A Procedural Approach
 
 
 
@@ -547,6 +548,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_89c365508787d1e9f7c6e479ba9c933d.jpg) |3D Engine Design for Virtual Globes |[https://www.stubbornhuang.com/1613/](https://www.stubbornhuang.com/1613/ "https://www.stubbornhuang.com/1613/") |
+
+## Texturing and Modeling - A Procedural Approach
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_d5db310ab03d68138e16f6630e6c631f.jpg) |Texturing and Modeling – A Procedural Approach, Third Edition |[https://www.stubbornhuang.com/1614/](https://www.stubbornhuang.com/1614/ "https://www.stubbornhuang.com/1614/") |
 
 
 # 计算几何
