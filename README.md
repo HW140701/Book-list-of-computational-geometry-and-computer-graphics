@@ -64,7 +64,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Real-Time Collision Detection
 - Introduction to 3D Game Programming with DirectX
 - Practical Rendering and Computation with Direct3D 11
-- Real-time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming
+- Real-Time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming
 - The Art of Fluid Animation
 - Ray Tracing from the Ground Up
 - Character Animation With Direct3D
@@ -452,10 +452,10 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/09/wp_editor_md_e6628f5696e3fec557737dae50cdb62b.jpg) |Practical Rendering and Computation with Direct3D 11 |[https://www.stubbornhuang.com/1665/](https://www.stubbornhuang.com/1665/ "https://www.stubbornhuang.com/1665/") |
 
-## Real-time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming
+## Real-Time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
-|![](https://www.stubbornhuang.com/wp-content/uploads/2021/09/wp_editor_md_7ea01b848a7592c30866e65292dc6613.jpg) |Real-time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming |[https://www.stubbornhuang.com/1668/](https://www.stubbornhuang.com/1668/ "https://www.stubbornhuang.com/1668/") |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/09/wp_editor_md_7ea01b848a7592c30866e65292dc6613.jpg) |Real-Time 3D Rendering with DirectX and HLSL - A Practical Guide to Graphics Programming |[https://www.stubbornhuang.com/1668/](https://www.stubbornhuang.com/1668/ "https://www.stubbornhuang.com/1668/") |
 
 
 ## The Art of Fluid Animation
