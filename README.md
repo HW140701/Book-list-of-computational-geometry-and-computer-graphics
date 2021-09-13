@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
 
-> 持续更新中，本次更新时间2021年9月12日，未完待续！
+> 持续更新中，本次更新时间2021年9月13日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -94,6 +94,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - The Algorithms and Principles of Non-photorealistic Graphics - Artistic Rendering and Cartoon Animation
 - Digital Character Development - Theory and Practice
 - 3D Graphics Rendering Cookbook - A comprehensive guide to exploring rendering algorithms in modern OpenGL and Vulkan
+- Tricks of the 3D Game Programming Gurus - Advanced 3D Graphics and Rasterization
 
 
 
@@ -615,6 +616,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/09/wp_editor_md_a161d8e51ce5a85a23a0b8363d6d6a74.jpg) |3D Graphics Rendering Cookbook - A comprehensive guide to exploring rendering algorithms in modern OpenGL and Vulkan |[https://www.stubbornhuang.com/1679/](https://www.stubbornhuang.com/1679/ "https://www.stubbornhuang.com/1679/") |
+
+## Tricks of the 3D Game Programming Gurus - Advanced 3D Graphics and Rasterization
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/09/wp_editor_md_47a261b46166e7676c90cb2484f88076.jpg) |Tricks of the 3D Game Programming Gurus - Advanced 3D Graphics and Rasterization |[https://www.stubbornhuang.com/1682/](https://www.stubbornhuang.com/1682/ "https://www.stubbornhuang.com/1682/") |
 
 
 # 计算几何
