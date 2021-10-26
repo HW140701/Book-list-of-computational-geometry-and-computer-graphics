@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
 
-> 持续更新中，本次更新时间2021年10月25日，未完待续！
+> 持续更新中，本次更新时间2021年10月26日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -117,6 +117,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Image Content Retargeting - Maintaining Color, Tone, and Spatial Consistency
 - Introduction to Computer Graphics - A Practical Learning Approach
 - Direct3D Rendering Cookbook
+- Practical Algorithms for 3D Computer Graphics
 
 
 
@@ -760,6 +761,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/10/wp_editor_md_3c9b2ef75b5b028e61bbe1e68c3934dd.jpg) |Direct3D Rendering Cookbook |[https://www.stubbornhuang.com/1771/](https://www.stubbornhuang.com/1771/ "https://www.stubbornhuang.com/1771/") |
+
+## Practical Algorithms for 3D Computer Graphics
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/10/wp_editor_md_ff2ff47a18166476d90fa11d1b4186c1.jpg) |Practical Algorithms for 3D Computer Graphics, Second Edition |[https://www.stubbornhuang.com/1772/](https://www.stubbornhuang.com/1772/ "https://www.stubbornhuang.com/1772/") |
 
 
 # 计算几何
