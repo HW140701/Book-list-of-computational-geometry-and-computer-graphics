@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
 
-> 持续更新中，本次更新时间2021年10月27日，未完待续！
+> 持续更新中，本次更新时间2021年10月28日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -119,6 +119,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Direct3D Rendering Cookbook
 - Practical Algorithms for 3D Computer Graphics
 - Computer Graphics - From Pixels to Programmable Graphics Hardware
+- The History of Visual Magic in Computers - How Beautiful Images are Made in CAD, 3D, VR and AR
 
 
 
@@ -772,6 +773,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/10/wp_editor_md_8ceeee70d05d3f35b233c76323a6e6b4.jpg) |Computer Graphics - From Pixels to Programmable Graphics Hardware |[https://www.stubbornhuang.com/1774/](https://www.stubbornhuang.com/1774/ "https://www.stubbornhuang.com/1774/") |
+
+## The History of Visual Magic in Computers - How Beautiful Images are Made in CAD, 3D, VR and AR
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/10/wp_editor_md_b89e8ca4d2b9bb8d9d0432bbfc8ab196.jpg) |The History of Visual Magic in Computers - How Beautiful Images are Made in CAD, 3D, VR and AR |[https://www.stubbornhuang.com/1779/](https://www.stubbornhuang.com/1779/ "https://www.stubbornhuang.com/1779/") |
 
 
 # 计算几何
