@@ -4,7 +4,7 @@
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
 
-> 持续更新中，本次更新时间2021年11月1日，未完待续！
+> 持续更新中，本次更新时间2021年11月3日，未完待续！
 
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
@@ -123,6 +123,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - WebGL Programming Guide - Interactive 3D Graphics Programming with WebGL
 - Beginning DirectX 11 Game Programming
 - The CUDA Handbook - A Comprehensive Guide to GPU Programming
+- OpenGL Development Cookbook
 
 
 
@@ -796,6 +797,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![](https://www.stubbornhuang.com/wp-content/uploads/2021/11/wp_editor_md_9bf9f38bc30686b207762b7690d32703.jpg) |The CUDA Handbook - A Comprehensive Guide to GPU Programming |[https://www.stubbornhuang.com/1784/](https://www.stubbornhuang.com/1784/ "https://www.stubbornhuang.com/1784/") |
+
+## OpenGL Development Cookbook
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![](https://www.stubbornhuang.com/wp-content/uploads/2021/11/wp_editor_md_049e94ef518dcf8dfe41889e4040a379.jpg) |OpenGL Development Cookbook |[https://www.stubbornhuang.com/1786/](https://www.stubbornhuang.com/1786/ "https://www.stubbornhuang.com/1786/") |
 
 
 # 计算几何
