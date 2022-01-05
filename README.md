@@ -4,7 +4,7 @@
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2022年1月4日，未完待续！
+> 持续更新中，本次更新时间2022年1月5日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -137,6 +137,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Learn OpenGL - Learn modern OpenGL graphics programming in a step-by-step fashion
 - Simulating Humans - Computer Graphics Animation and Control
 - WebGL Gems - Learn How To Create 3D Worlds And Games For Modern Web Browsers
+- Computer Graphics, C Version
 
 ## 计算几何书单列表
 
@@ -998,6 +999,12 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_70d43d019c7f6af2cdd72da6a5f53e16.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_70d43d019c7f6af2cdd72da6a5f53e16.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_70d43d019c7f6af2cdd72da6a5f53e16.jpg") |WebGL Gems - Learn How To Create 3D Worlds And Games For Modern Web Browsers, First Edition |[https://www.stubbornhuang.com/1887/](https://www.stubbornhuang.com/1887/ "https://www.stubbornhuang.com/1887/") |
+
+## Computer Graphics, C Version
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_369f0b3f33e48ec7bcfa044141a21c30.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_369f0b3f33e48ec7bcfa044141a21c30.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_369f0b3f33e48ec7bcfa044141a21c30.jpg")|Computer Graphics, C Version , Second Edition |[https://www.stubbornhuang.com/1888/](https://www.stubbornhuang.com/1888/ "https://www.stubbornhuang.com/1888/") |
+
 
 # 计算几何
 
