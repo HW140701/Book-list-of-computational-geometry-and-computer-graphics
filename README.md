@@ -1038,6 +1038,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_d34d4d2c5c742d82d87398ad0b41238d.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_d34d4d2c5c742d82d87398ad0b41238d.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_d34d4d2c5c742d82d87398ad0b41238d.jpg") |Computer Graphics with OpenGL , Third Edition |[https://www.stubbornhuang.com/1922/](https://www.stubbornhuang.com/1922/ "https://www.stubbornhuang.com/1922/") |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_deabaa53fe93bb2e5bd228637313c857.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_deabaa53fe93bb2e5bd228637313c857.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/01/wp_editor_md_deabaa53fe93bb2e5bd228637313c857.jpg") |Computer Graphics with OpenGL , Fourth Edition |[https://www.stubbornhuang.com/1924/](https://www.stubbornhuang.com/1924/ "https://www.stubbornhuang.com/1924/") |
 
 
 
