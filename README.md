@@ -4,7 +4,7 @@
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2022年2月20日，未完待续！
+> 持续更新中，本次更新时间2022年3月4日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -149,6 +149,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - AI Game Programming Wisdom
 - Artificial Intelligence for Games
 - Behavioral Mathematics for Game AI
+- Cloth Modeling and Animation
 
 ## 计算几何书单列表
 
@@ -1080,6 +1081,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/02/wp_editor_md_f5463d98a0c6c200a64ffe0ee17d60ce.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/02/wp_editor_md_f5463d98a0c6c200a64ffe0ee17d60ce.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/02/wp_editor_md_f5463d98a0c6c200a64ffe0ee17d60ce.jpg") |Behavioral Mathematics for Game AI |[https://www.stubbornhuang.com/1972/](https://www.stubbornhuang.com/1972/ "https://www.stubbornhuang.com/1972/") |
+
+## Cloth Modeling and Animation
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/03/wp_editor_md_15bfc06a1e4c64ea520e29d489df07e8.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/03/wp_editor_md_15bfc06a1e4c64ea520e29d489df07e8.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/03/wp_editor_md_15bfc06a1e4c64ea520e29d489df07e8.jpg") |Cloth Modeling and Animation |[https://www.stubbornhuang.com/1996/](https://www.stubbornhuang.com/1996/ "https://www.stubbornhuang.com/1996/") |
 
 
 
