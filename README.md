@@ -4,7 +4,7 @@
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2022年5月1日，未完待续！
+> 持续更新中，本次更新时间2022年5月12日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -555,6 +555,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 | 封面                                                                                                              | 书名                                                  | 下载链接                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_fdbb51a6820e1fe31e77d770c7c4ff7d.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_fdbb51a6820e1fe31e77d770c7c4ff7d.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_fdbb51a6820e1fe31e77d770c7c4ff7d.jpg") |Introduction to 3D Game Programming with DirectX 9.0 |[https://www.stubbornhuang.com/2125/](https://www.stubbornhuang.com/2125/ "https://www.stubbornhuang.com/2125/") |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_c0653d7b9acfae6a54c0dc2402ba39ea.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_c0653d7b9acfae6a54c0dc2402ba39ea.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_c0653d7b9acfae6a54c0dc2402ba39ea.jpg") |Introduction to 3D Game Programming with DirectX 10 |[https://www.stubbornhuang.com/2116/](https://www.stubbornhuang.com/2116/ "https://www.stubbornhuang.com/2116/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/08/wp_editor_md_8585d33e0dfcdc3f6da1d8047722ffdd.jpg) | Introduction to 3D Game Programming with DirectX 11 | [https://www.stubbornhuang.com/1554/](https://www.stubbornhuang.com/1554/ "https://www.stubbornhuang.com/1554/") |
 | ![](https://www.stubbornhuang.com/wp-content/uploads/2021/06/wp_editor_md_7a5e6509517102d6c48bbf2d05fa6de7.jpg) | Introduction to 3D Game Programming with DirectX 12 | [https://www.stubbornhuang.com/1397/](https://www.stubbornhuang.com/1397/ "https://www.stubbornhuang.com/1397/") |
