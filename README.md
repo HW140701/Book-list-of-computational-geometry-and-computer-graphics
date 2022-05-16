@@ -4,7 +4,7 @@
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2022年5月12日，未完待续！
+> 持续更新中，本次更新时间2022年5月16日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -175,6 +175,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Computational Geometry on Surfaces - Performing Computational Geometry on the Cylinder, the Sphere, the Torus, and the Cone
 - Geometry for Computer Graphics - Formulae, Examples and Proofs
 - Introduction to Computing with Geometry
+- Curves and Surfaces for Computer Graphics
 
 
 
@@ -1229,3 +1230,8 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2021/12/wp_editor_md_21f50e042689167c9c0a655cb13fca17.jpg](https://www.stubbornhuang.com/wp-content/uploads/2021/12/wp_editor_md_21f50e042689167c9c0a655cb13fca17.jpg "https://www.stubbornhuang.com/wp-content/uploads/2021/12/wp_editor_md_21f50e042689167c9c0a655cb13fca17.jpg") |Introduction to Computing with Geometry |[https://www.stubbornhuang.com/1878/](https://www.stubbornhuang.com/1878/ "https://www.stubbornhuang.com/1878/") |
+
+## Curves and Surfaces for Computer Graphics
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg") |Curves and Surfaces for Computer Graphics |[https://www.stubbornhuang.com/2128/](https://www.stubbornhuang.com/2128/ "https://www.stubbornhuang.com/2128/") |
