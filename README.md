@@ -1,6 +1,6 @@
 [TOC]
 
-# 计算几何与计算机图形必备书单
+# Must-read list and classic books of computational geometry and computer graphics(计算几何与计算机图形必备书单)
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
@@ -10,7 +10,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 个人网站页面地址：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
 
-## 计算机图形学书单列表
+## Booklist of Computer Graphics(计算机图形学书单列表)
 
 - Fundamentals of Computer Graphics
 - Physically Based Rendering From Theory To Implementation
@@ -157,7 +157,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Rotation Transforms for Computer Graphics
 - Matrix Transforms for Computer Games and Animation
 
-## 计算几何书单列表
+## Booklist of Computational Geometry(计算几何书单列表)
 
 - Polygon Mesh Processing
 - Computational Geometry – Algorithms and Applications
@@ -184,7 +184,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 
 
-# 计算机图形学书单
+# Books of Computer Graphics计算机图形学书单
 
 ## Fundamentals of Computer Graphics
 
@@ -1131,7 +1131,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 
 
 
-# 计算几何
+# Booklist of Computational Geometry(计算几何)
 
 ## Polygon Mesh Processing
 
