@@ -4,7 +4,7 @@
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2022年8月14日，未完待续！
+> 持续更新中，本次更新时间2022年8月16日，未完待续！
 
 Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics")，欢迎大家star!
 
@@ -157,6 +157,7 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 - Rotation Transforms for Computer Graphics
 - Matrix Transforms for Computer Games and Animation
 - Mathematical Basics of Motion and Deformation in Computer Graphics
+- Geometric and Discrete Path Planning for Interactive Virtual Worlds
 
 ## Booklist of Computational Geometry(计算几何书单列表)
 
@@ -1133,6 +1134,11 @@ Github地址：[https://github.com/HW140701/Book-list-of-computational-geometry-
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6f4e45c3349d7aacd54d3ed0b4cff099.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6f4e45c3349d7aacd54d3ed0b4cff099.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6f4e45c3349d7aacd54d3ed0b4cff099.jpg") |Mathematical Basics of Motion and Deformation in Computer Graphics , Second Edition |[https://www.stubbornhuang.com/2311/](https://www.stubbornhuang.com/2311/ "https://www.stubbornhuang.com/2311/") |
+
+## Geometric and Discrete Path Planning for Interactive Virtual Worlds
+| 封面  | 书名  | 下载链接  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6c49641e1548f47956c27d1c56f98038.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6c49641e1548f47956c27d1c56f98038.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/08/wp_editor_md_6c49641e1548f47956c27d1c56f98038.jpg") |Geometric and Discrete Path Planning for Interactive Virtual Worlds |[https://www.stubbornhuang.com/2316](https://www.stubbornhuang.com/2316 "https://www.stubbornhuang.com/2316") |
 
 
 
