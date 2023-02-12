@@ -163,7 +163,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - Mathematical Basics of Motion and Deformation in Computer Graphics
 - Geometric and Discrete Path Planning for Interactive Virtual Worlds
 - Hands-On C++ Game Animation Programming
-- An Introduction to Computational Fluid Dynamics
+- An Introduction to Computational Fluid Dynamics - The Finite Volume Method
 
 ## Booklist of Computational Geometry(计算几何书单列表)
 
@@ -1156,6 +1156,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 | 封面  | 书名  | 下载链接  |
 | ------------ | ------------ | ------------ |
 |[![https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg") |An Introduction to Computational Fluid Dynamics - The Finite Volume Method (First Edition) |[https://www.stubbornhuang.com/2503/](https://www.stubbornhuang.com/2503/ "https://www.stubbornhuang.com/2503/") |
+|[![https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg") |An Introduction to Computational Fluid Dynamics - The Finite Volume Method (Second Edition) |[https://www.stubbornhuang.com/2504/](https://www.stubbornhuang.com/2504/ "https://www.stubbornhuang.com/2504/") |
 
 
 
