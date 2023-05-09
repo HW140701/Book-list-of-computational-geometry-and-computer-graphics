@@ -8,7 +8,7 @@ Some people say that computer graphics generally includes geometry, rendering an
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算机图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2023年2月12日，未完待续！
+> 持续更新中，本次更新时间2023年5月9日，未完待续！
 
 Github：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics"), welcome star !
 
@@ -187,10 +187,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - Geometry for Computer Graphics - Formulae, Examples and Proofs
 - Introduction to Computing with Geometry
 - Curves and Surfaces for Computer Graphics
-
-
-
-
+- Geometry for Programmers
 
 # Books of Computer Graphics计算机图形学书单
 
@@ -1284,3 +1281,8 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 | Cover | Title | Url  |
 | ------------ | ------------ | ------------ |
 |![https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/05/wp_editor_md_2c9fd83e1bc29291b8312008784c660c.jpg") |Curves and Surfaces for Computer Graphics |[https://www.stubbornhuang.com/2128/](https://www.stubbornhuang.com/2128/ "https://www.stubbornhuang.com/2128/") |
+
+## Geometry for Programmers
+| Cover | Title | Url  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_bf2d8749e183435e24069d9aa73f2cad.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_bf2d8749e183435e24069d9aa73f2cad.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_bf2d8749e183435e24069d9aa73f2cad.jpg") | Geometry for Programmers, First Edition |[https://www.stubbornhuang.com/2604/](https://www.stubbornhuang.com/2604/ "https://www.stubbornhuang.com/2604/") |
