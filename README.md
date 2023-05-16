@@ -8,7 +8,7 @@ Some people say that computer graphics generally includes geometry, rendering an
 
 有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算机图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-> 持续更新中，本次更新时间2023年5月9日，未完待续！
+> 持续更新中，本次更新时间2023年5月16日，未完待续！
 
 Github：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics"), welcome star !
 
@@ -164,6 +164,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - Geometric and Discrete Path Planning for Interactive Virtual Worlds
 - Hands-On C++ Game Animation Programming
 - An Introduction to Computational Fluid Dynamics - The Finite Volume Method
+- Mastering Graphics Programming with Vulkan
 
 ## Booklist of Computational Geometry(计算几何书单列表)
 
@@ -1151,10 +1152,15 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 |[![https://www.stubbornhuang.com/wp-content/uploads/2022/12/wp_editor_md_07272b7fb825157cab1bd7bdb040fb5b.jpg](https://www.stubbornhuang.com/wp-content/uploads/2022/12/wp_editor_md_07272b7fb825157cab1bd7bdb040fb5b.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/12/wp_editor_md_07272b7fb825157cab1bd7bdb040fb5b.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2022/12/wp_editor_md_07272b7fb825157cab1bd7bdb040fb5b.jpg "https://www.stubbornhuang.com/wp-content/uploads/2022/12/wp_editor_md_07272b7fb825157cab1bd7bdb040fb5b.jpg") | Hands-On C++ Game Animation Programming |[https://www.stubbornhuang.com/2446/](https://www.stubbornhuang.com/2446/ "https://www.stubbornhuang.com/2446/") |
 
 ## An Introduction to Computational Fluid Dynamics - The Finite Volume Method
-| 封面  | 书名  | 下载链接  |
+| Cover | Title | Url  |
 | ------------ | ------------ | ------------ |
 |[![https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_3f69bc69281c5854e94441bc417b764a.jpg") |An Introduction to Computational Fluid Dynamics - The Finite Volume Method (First Edition) |[https://www.stubbornhuang.com/2503/](https://www.stubbornhuang.com/2503/ "https://www.stubbornhuang.com/2503/") |
 |[![https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/02/wp_editor_md_2c5265bfecce8878c9ca25d0361307b4.jpg") |An Introduction to Computational Fluid Dynamics - The Finite Volume Method (Second Edition) |[https://www.stubbornhuang.com/2504/](https://www.stubbornhuang.com/2504/ "https://www.stubbornhuang.com/2504/") |
+
+## Mastering Graphics Programming with Vulkan
+| Cover | Title | Url  |
+| ------------ | ------------ | ------------ |
+|![https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_490006674f1f609e8aa20de247621fc9.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_490006674f1f609e8aa20de247621fc9.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/05/wp_editor_md_490006674f1f609e8aa20de247621fc9.jpg") |Mastering Graphics Programming with Vulkan |[https://www.stubbornhuang.com/2616/](https://www.stubbornhuang.com/2616/ "https://www.stubbornhuang.com/2616/") |
 
 
 
