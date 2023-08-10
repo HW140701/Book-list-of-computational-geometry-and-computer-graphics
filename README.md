@@ -6,7 +6,7 @@ Some people say that computer graphics generally includes geometry, rendering an
 
 **It is under continuous update. This update is on August 10, 2023. It is not finished yet to be continued.**
 
-Github：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics"), welcome star !
+**welcome star !**
 
 Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
 
