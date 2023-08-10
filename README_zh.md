@@ -1,18 +1,16 @@
 [TOC]
 
-# Must-read list and classic books of computational geometry and computer graphics
+# 计算几何与计算机图形必读书单
 
-Some people say that computer graphics generally includes geometry, rendering and simulation. Others say that computer graphics mainly includes modeling, rendering, animation and human-computer interaction. In this book list, I want to summarize the books that can be read from two aspects: computational geometry and computer graphics. Computer graphics mainly summarizes the mathematical basis of graphics, rendering, animation, simulation, game engine design and development, graphics api, etc. Computational geometry mainly summarizes the basic geometry such as points, lines and planes and their relationships.
+有人说计算机图形学一般包含几何（Geometry）、渲染（Rendering）、模拟（Simulation），也有人说计算机图形学主要包含建模（Modeling）、渲染（Rendering）、动画（Animation）、人机交互（Human-computer Interaction）。本书单想从计算几何和计算机图形学两个方面总结一下可看的书籍，计算机图形学主要从图形学数学基础、渲染、动画、模拟、游戏引擎设计与开发、图形API等方面总结，计算几何主要从点、线、面等基础几何体以及相互关系总结。
 
-**It is under continuous update. This update is on August 10, 2023. It is not finished yet to be continued.**
+> 持续更新中，本次更新时间2023年8月10日，未完待续！
 
-Github：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics"), welcome star !
+Github：[https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics "https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics"), 欢迎star !
 
 Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhuang.com/1256/)
 
-[中文说明](./README_zh.md)
-
-## Booklist of Computer Graphics
+## 计算机图形学书单
 
 - Fundamentals of Computer Graphics
 - Physically Based Rendering From Theory To Implementation
@@ -165,7 +163,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - Mastering Graphics Programming with Vulkan
 - Practical Shader Development - Vertex and Fragment Shaders for Game Developers
 
-## Booklist of Computational Geometry
+## 计算几何书单列表
 
 - Polygon Mesh Processing
 - Computational Geometry – Algorithms and Applications
@@ -189,7 +187,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - Curves and Surfaces for Computer Graphics
 - Geometry for Programmers
 
-# Books of Computer Graphics
+# 计算机图形学书单
 
 ## Fundamentals of Computer Graphics
 
@@ -1167,7 +1165,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 |[![https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg")|Practical Shader Development - Vertex and Fragment Shaders for Game Developers |[https://www.stubbornhuang.com/2750/](https://www.stubbornhuang.com/2750/ "https://www.stubbornhuang.com/2750/") |
 
 
-# Booklist of Computational Geometry
+# 计算几何
 
 ## Polygon Mesh Processing
 
