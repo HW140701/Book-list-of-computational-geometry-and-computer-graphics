@@ -164,6 +164,7 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 - An Introduction to Computational Fluid Dynamics - The Finite Volume Method
 - Mastering Graphics Programming with Vulkan
 - Practical Shader Development - Vertex and Fragment Shaders for Game Developers
+- The Modern Vulkan Cookbook - A practical guide to 3D graphics and advanced real-time rendering techniques in Vulkan
 
 ## Booklist of Computational Geometry
 
@@ -1165,6 +1166,11 @@ Personal Website：[https://www.stubbornhuang.com/1256/](https://www.stubbornhua
 | Cover | Title | Url  |
 | ------------ | ------------ | ------------ |
 |[![https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg](https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg")](https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg "https://www.stubbornhuang.com/wp-content/uploads/2023/08/wp_editor_md_5d2a7c7f189dccf598b9844baf2947f2.jpg")|Practical Shader Development - Vertex and Fragment Shaders for Game Developers |[https://www.stubbornhuang.com/2750/](https://www.stubbornhuang.com/2750/ "https://www.stubbornhuang.com/2750/") |
+
+## The Modern Vulkan Cookbook - A practical guide to 3D graphics and advanced real-time rendering techniques in Vulkan
+| Cover | Title | Url |
+| ------------ | ------------ | ------------ |
+|[![](https://www.stubbornhuang.com/wp-content/uploads/2024/07/wp_editor_md_468c2af6dd0984352aae7c0b264ee2f1.jpg)](https://www.stubbornhuang.com/wp-content/uploads/2024/07/wp_editor_md_468c2af6dd0984352aae7c0b264ee2f1.jpg) |The Modern Vulkan Cookbook – A practical guide to 3D graphics and advanced real-time rendering techniques in Vulkan |[https://www.stubbornhuang.com/3050/](https://www.stubbornhuang.com/3050/ "https://www.stubbornhuang.com/3050/") |
 
 
 # Booklist of Computational Geometry
